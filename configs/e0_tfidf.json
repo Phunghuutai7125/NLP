@@ -1,0 +1,13 @@
+{
+  "system_id": "E0_tfidf",
+  "name": "Lexical TF-IDF Baseline",
+  "hypothesis": "Lexical TF-IDF baseline with word unigrams and bigrams; exact economic terms rank well when terminology matches query precisely.",
+  "vectorizer": {
+    "ngram_range": [1, 2],
+    "sublinear_tf": true,
+    "max_features": 300000,
+    "similarity": "cosine"
+  },
+  "top_k": 10,
+  "pool_depth": 5
+}

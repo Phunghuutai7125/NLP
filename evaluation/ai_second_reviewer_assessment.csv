@@ -1,0 +1,755 @@
+﻿sample_no,query_id,query_text,doc_id,title,source,url,snippet,second_reviewer_relevance,second_reviewer_notes,review_status,second_reviewer,reviewed_at_utc,Duy_relevance,submitted_random_relevance,prior_AI_provisional_relevance,AI_assessment_relevance,AI_assessment_reason,AI_assessment_provenance
+1,q027,Công ty nào công bố doanh thu hoặc lợi nhuận tăng cao trong năm vừa qua?,article-02602,"Chuỗi cà phê Phúc Long lãi kỷ lục, mỗi ngày cửa hàng thu về bao nhiêu tiền?",tuoitre,https://tuoitre.vn/chuoi-ca-phe-phuc-long-lai-ky-luc-moi-ngay-cua-hang-thu-ve-bao-nhieu-tien-2026012818320958.htm,"Phúc Long trở thành một trong chuỗi trà - cà phê lớn hàng đầu, góp phần thúc đẩy đầu ra cho nông sản Việt - Ảnh: PLH
+
+Công ty cổ phần Tập đoàn Masan (mã chứng khoán MSN) vừa tổ chức sự kiện ""Community Day"" vào hôm nay 28-1, theo hình thức trực tuyến, nhằm chia sẻ kết quảkinh doanh, đồng thời trả lời các câu hỏi của cổ đông đặt ra.
+
+Tại chương trình, ông Danny Lê - Tổng giám đốc tập đoàn - công bố nhiều thông tin nổi bật về hoạt động kinh doanh, trong đó chuỗi trà -cà phêPhúc Long tiếp tục được chú ý.
+
+Theo đó, chỉ riêng quý cuối năm 2025, Phúc Long Heritage đạt doanh thu hơn 500 tỉ đồng, tăng hơn 24% so với cùng kỳ năm trước. Lợi nhuận trước lãi vay, thuế và khấu hao (EBITDA) đạt 100 tỉ đồng, tăng hơn 12%. Đây đều là mức cao nhất kể từ khi chuỗi này được Masan hợp nhất từ đầu năm 2022.
+
+Như vậy tính chung cả năm vừa qua, hệ thống ghi nhận doanh thu gần 1.900 tỉ đồng. Tuy thấp hơn kế hoạch đề ra nhưng vẫn tăng gần 17% so với năm trước, đồng thời xác lập mức kỷ lục.
+
+Trừ các chi phí, lợi",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:34:47.435934+00:00,3,2,3,3,"B?i n?u doanh thu v? l?i nhu?n k? l?c c?a Ph?c Long trong n?m 2025, tr? l?i tr?c ti?p c?u h?i v? doanh nghi?p t?ng doanh thu/l?i nhu?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+2,q036,Có hãng hàng không mới nào chuẩn bị gia nhập thị trường và ai đứng sau?,article-01342,Vietravel Airlines đổi tên,dantri,https://dantri.com.vn/kinh-doanh/vietravel-airlines-doi-ten-20260120111234360.htm,"Theo nghị quyết được HĐQT Vietravel (mã chứng khoán: VTR) thông qua ngày 21/11/2025,doanh nghiệpnày sẽ thoái toàn bộ phần vốn góp tại Vietravel Airlines trước ngày 31/12/2025, đồng thời chấm dứt quyền sử dụng thương hiệu “Vietravel” đối với hãng hàng không.
+
+Ở diễn biến khác, Vietravel Airlines sau khi về với Tập đoàn T&T cũng đang triển khai quá trình tái cấu trúc toàn diện về sở hữu và vận hành, trong đó việc đổi tên thương hiệu được xác định là bước đi tiếp theo.
+
+Chia sẻ với phóng viên báoDân trí, đại diện cho biết Vietravel Airlines sẽ đổi sang một tên thương hiệu mới, độc lập với hệ sinh thái của Tập đoànDu lịchVietravel.
+
+Thực tế, sau khi T&T Group trở thành cổ đông chiến lược, Vietravel Airlines đã có những điều chỉnh đáng chú ý. Trong năm 2025, hãng chuyển từ mô hình thuê sang sở hữu tàu bay, tiếp nhận chiếc Airbus A321 đầu tiên thuộc sở hữu, sau đó bổ sung thêm một chiếc Airbus A320 và dự kiến tiếp tục gia tăng đội tàu trong thời gian tới.
+
+Vietravel Airlines sẽ biến mất khỏi",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:34:58.323996+00:00,1,2,1,1,Vietravel Airlines ??i t?n l? th?ng tin v? h?ng hi?n h?u; kh?ng cho th?y m?t h?ng m?i gia nh?p th? tr??ng.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+3,q024,Lạm phát và chi phí sinh hoạt được phản ánh trong các tin kinh tế nào?,article-02834,Không để người lao động thiệt vì lương tối thiểu sau sáp nhập,tienphong,https://tienphong.vn/khong-de-nguoi-lao-dong-thiet-vi-luong-toi-thieu-sau-sap-nhap-post1804751.tpo,"Cách một cây cầu nhưng mức lương chênh lệch lại lớn
+
+(?) Tại Hội nghị Ban chấp hành Tổng LĐLĐ Việt Nam mới đây, đại diện LĐLĐ TP.HCM chia sẻ câu chuyện phân chia vùng lương tối thiểu từ cấp huyện cũ sang cấp xã mới dẫn đến một số nơi sát nhau lại thuộc các vùng khác nhau. Cá biệt có nơi chỉ cách nhau một cây cầu, tuyến đường nhưng nơi vùng 1 (lương tối thiểu cao nhất), nơi vùng 3, chênh tới 1,17 triệu đồng (hơn 28%). Từ câu chuyện của TP.HCM, bà bình luận sao về việc này?
+
+Tiền lương tối thiểu là mức lương hết sức quan trọng, bảo đảm mức sống tối thiểu phù hợp với điều kiện kinh tế – xã hội tại địa phương nơi họ sinh sống. Vì vậy, việc điều chỉnh tiền lương tối thiểu để người lao động bảo đảm được mức sống tối thiểu có ý nghĩa rất lớn.
+
+Từ những phản ánh và phát hiện của Công đoàn TP.HCM cho thấy, khi thực hiện sáp nhập các địa phương, các xã và các địa bàn dân cư, việc phân vùng lương tối thiểu có sự thay đổi so với các quy định trước đây. Chỉ riêng so với năm ngoái, việc sắp xếp, sáp",1,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:05.256122+00:00,2,1,2,2,"B?i n?i v? ?i?u ch?nh l??ng t?i thi?u v? thu nh?p ng??i lao ??ng sau s?p nh?p, li?n quan m?t ph?n ??n chi ph? sinh ho?t.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+4,q029,"Các thương vụ mua bán, sáp nhập hoặc thâu tóm doanh nghiệp được đề cập ra sao?",article-01762,Làn sóng M&A ngân hàng trở lại với những thương vụ tỷ USD,dantri,https://dantri.com.vn/kinh-doanh/lan-song-ma-ngan-hang-tro-lai-voi-nhung-thuong-vu-ty-usd-20251212112717804.htm,"Trong bối cảnh làn sóng mua bán - sáp nhập (M&A) rầm rộ trở lại tại Việt Nam, ngànhtài chínhngân hàng cũng đang chờ đợi những thương vụ lớn.
+
+Thị trường tài chínhViệt Nam không xa lạ với các thương vụ M&A, nhưng trước đây, hoạt động này chủ yếu mang tính chất ""giải cứu"" hoặc tái cơ cấu các tổ chức tín dụng yếu kém. Điển hình là loạt thương vụ chuyển giao bắt buộc gần đây như CBBank về Vietcombank, Ocean Bank về MB, GPBank về VPBank hay DongA Bank được chuyển giao cho HDBank.
+
+Tuy nhiên, bước sang năm 2026, giới chuyên gia nhận định ""khẩu vị"" M&A sẽ thay đổi hoàn toàn theo hướng chủ động. Mục tiêu của các nhà băng không còn là xử lý nợ xấu mà là tận dụng dòng vốn ngoại, tiếp thu công nghệ quản trị tiên tiến và mở rộng thị phần.
+
+Ông Đỗ Quang Vinh, Phó Chủ tịch SHB, nhận định tại Diễn đàn M&A mới đây rằng vị thế của bên bán đã khác. ""Cácdoanh nghiệphiện nay chủ động tìm kiếm đối tác để vươn ra quốc tế chứ không phải vì khó khăn tài chính. Sự hậu thuẫn từ nhà đầu tư nước ngoài giúp ngân h",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:08.020895+00:00,3,2,3,3,B?i t??ng thu?t tr?c ti?p c?c th??ng v? M&A ng?n h?ng v? gi? tr? giao d?ch.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+5,q038,Ai đang thành lập doanh nghiệp để sản xuất tàu vũ trụ?,article-01451,"Hyra Holdings liên quan Shark Hưng: Liên tục đổi tên, tăng vốn ""thần tốc""",dantri,https://dantri.com.vn/kinh-doanh/hyra-holdings-lien-quan-shark-hung-lien-tuc-doi-ten-tang-von-than-toc-20251223115113919.htm,"Bên cạnh những chức vụ quan trọng trong hệ sinh thái của Cen Group, Shark Hưng còn đảm nhiệm vị trí Thành viên HĐQT độc lập tại Công ty cổ phần Hyra Holdings.
+
+Theo Cổng thông tin quốc gia về đăng ký doanh nghiệp, Công ty cổ phần Hyra Holdings có tên ban đầu là Công ty cổ phần CMC Holdings, được thành lập vào tháng 12/2021, trụ sở chính đặt tại phường La Khê, Hà Nội. Người đại diện pháp luật kiêm Tổng giám đốc là ông Hoàng Quốc Tuấn (SN 1975).
+
+Doanh nghiệpđăng ký 14 ngành nghề kinh doanh, với ngành nghề chính là hoạt động tư vấn quản lý. Vốn điều lệ tại thời điểm thành lập là 5 tỷ đồng, với cổ đông sáng lập gồm ông Trần Nam Chung góp 3 tỷ đồng, ông Hoàng Quốc Tuấn và bà Vũ Thị Tuyết Thanh mỗi người góp 1 tỷ đồng.
+
+Đáng chú ý, từ khi thành lập đến nay doanh nghiệp liên tục thay đổi tên, người đại diện pháp luật và vốn điều lệ.
+
+Cụ thể, về tên doanh nghiệp, từ tên ban đầu là Công ty cổ phần CMC Holdings, đến tháng 3/2022 (tức sau khoảng 4 tháng thành lập), doanh nghiệp đổi tên thành Côn",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:09.531590+00:00,0,2,0,0,"B?i v? m?t doanh nghi?p li?n quan Shark H?ng, kh?ng n?i v? vi?c th?nh l?p h?ng s?n xu?t t?u v? tr?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+6,q015,Các chuyên gia đánh giá thế nào về khả năng hồi phục của thị trường cổ phiếu?,article-01511,"Tín dụng bất động sản bị kiểm soát, cổ phiếu nhà đất ra sao?",dantri,https://dantri.com.vn/kinh-doanh/tin-dung-bat-dong-san-bi-kiem-soat-co-phieu-nha-dat-ra-sao-20260114133312462.htm,"Định hướng về điều hành tín dụng năm 2026 của Ngân hàng Nhà nước mới đây được nêu ra. Trong đó, một nội dung được đề cập là yêu cầu các tổ chức tín dụng kiểm soát chặt chẽ tốc độ tăng trưởng tín dụng đối với các lĩnh vực tiềm ẩn rủi ro, trong đó có lĩnh vực bất động sản trong năm 2026.
+
+Yêu cầu mới theo đó nhằm dẫn dòng vốn tín dụng vào các lĩnh vực sản xuất kinh doanh, các lĩnh vực ưu tiên và động lực tăng trưởng của nền kinh tế, đồng thời đảm bảo ổn định thanh khoản thị trường tiền tệ và an toàn hoạt động của hệ thống ngân hàng.
+
+Điều này đã và đang tác động mạnh mẽ đến tiềm năng của nhóm cổ phiếu bất động sản. Trong phiên ngày 9/1, ngay sau khi thông báo từ Ngân hàng Nhà nước được đưa ra, dù VN-Index tăng mạnh, nhóm cổ phiếu bất động sản lại giảm hơn 1% với thanh khoản trên 7.200 tỷ đồng. Động thái này cho thấy áp lực bán vẫn lớn, đặc biệt ở nhóm bất động sản dân cư khi nhiều mã giảm sàn hoặc mất 5-6%.
+
+Sức ép tập trung chủ yếu ở nhóm bất động sản dân cư, nhiều cổ phiếu nằm sàn với ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:11.697624+00:00,2,2,0,2,"B?i b?n v? ki?m so?t t?n d?ng b?t ??ng s?n v? di?n bi?n c? phi?u nh? ??t, nh?ng kh?ng t?p trung v?o kh? n?ng h?i ph?c chung c?a th? tr??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+7,q045,Doanh nghiệp năng lượng và điện đang đầu tư vào những dự án nào?,article-01023,2.300 tỷ USD đổ vào công nghệ xanh,dantri,https://dantri.com.vn/kinh-doanh/2300-ty-usd-do-vao-cong-nghe-xanh-20260126222851343.htm,"Theo báo cáo mới nhất từ BloombergNEF và PV Tech, tổng đầu tư toàn cầu cho quá trình chuyển dịch năng lượng trong năm qua đã tăng hơn 8%, cán mốc kỷ lục 2.300 tỷ USD (tương đương khoảng 57,5 triệu tỷ đồng).
+
+Tổng đầu tư toàn cầu cho quá trình chuyển dịch năng lượng đã tăng 8% trong năm 2025, đạt mức kỷ lục 2.300 tỷ USD (Ảnh: Bloomberg).
+
+Khi dòng tiền tìm nơi ""trú ẩn"" xanh
+
+Số liệu cho thấy, giới đầu tư đang ngày càng đặt niềm tin vào các công nghệ đã trưởng thành và có mô hìnhkinh doanhổn định. Trong tổng số vốn khổng lồ nói trên, khoảng 1.200 tỷ USD (30 triệu tỷ đồng) được rót vào năng lượng tái tạo và hệ thống lưới điện - 2 ""xương sống"" của nền kinh tế hiện đại.
+
+Đáng chú ý, lĩnh vực giao thông điện hóa bao gồmxe điệnvà hạ tầng trạm sạc đã trở thành ngôi sao sáng khi thu hút tới 893 tỷ USD (hơn 22 triệu tỷ đồng), tăng trưởng mạnh mẽ nhờ nhu cầu bùng nổ tại châu Á và châu Âu. Đây là minh chứng cho thấy xu hướng dịch chuyển sang phương tiện xanh không chỉ là khẩu hiệu mà đã trở thành ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:13.551188+00:00,1,2,2,2,"B?i n?u quy m? ??u t? chuy?n d?ch n?ng l??ng to?n c?u v? c?c h?ng m?c nh? n?ng l??ng t?i t?o, l??i ?i?n; ph? h?p ch? ?? nh?ng kh?ng t?p trung v?o doanh nghi?p/d? ?n c? th?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+8,q020,Những dự án bất động sản nào đang được đề xuất hoặc triển khai đầu tư?,article-02149,"7 hành vi vi phạm đất đai có thể bị khởi tố, người dân cần nắm rõ",thanhnien,https://thanhnien.vn/7-hanh-vi-vi-pham-dat-dai-co-the-bi-khoi-to-nguoi-dan-can-nam-ro-185260125182141728.htm,"Theo Thông tư liên tịch số 11/2025 do 11 bộ, ngành Trung ương ban hành các hành vi sau nếu gây lãng phíđất đainghiêm trọng sẽ có nguy cơ bị xem xét trách nhiệm hình sự.
+
+Thứ nhất, lập và thực hiện quy hoạch sử dụng đất, quy hoạch tài nguyên không đúng quy định pháp luật, gây thất thoát và lãng phí nguồn lực đất đai.
+
+Thứ hai, gây ô nhiễm, hủy hoại tài nguyên, năng lượng quốc gia trong quá trình sử dụng, khai thác đất đai và tài nguyên liên quan.
+
+Thứ ba, giao đất, cho thuê đất, giao rừng, cho thuê rừng, thu hồi đất hoặc cho phépchuyển mục đích sử dụng đấtkhông đúng đối tượng, không đúng thẩm quyền, không phù hợp quy hoạch, kế hoạch đã được phê duyệt.
+
+Hành vi để đất bỏ hoang sẽ bị xử lý hình sự. Trong ảnh là dự án của Công ty Sadeco ở xã Nhà Bè, TP.HCM bỏ hoang nhiều năm trời
+
+ẢNH: ĐÌNH SƠN
+
+Thứ tư, giao đất, cho thuê đất, chuyển mục đích sử dụng đất nhưng không thực hiện đầy đủ nghĩa vụ tài chính với Nhà nước; không tổ chức đấu giá quyền sử dụng đất, đấu thầu dự án theo quy định hoặc ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:14.437183+00:00,0,2,1,0,"B?i li?t k? vi ph?m ??t ?ai c? th? b? kh?i t?, kh?ng x?c ??nh d? ?n b?t ??ng s?n ?ang ???c ?? xu?t ho?c ??u t?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+9,q043,Chiến sự Trung Đông ảnh hưởng thế nào đến thị trường chứng khoán Việt Nam?,article-01929,"Nếu được nâng hạng, chứng khoán Việt Nam có thể hút 25 tỷ USD vốn quốc tế",dantri,https://dantri.com.vn/kinh-doanh/neu-duoc-nang-hang-chung-khoan-viet-nam-co-the-hut-25-ty-usd-von-quoc-te-20260105173152054.htm,"""Kinh nghiệm quốc tế cho thấy việc được nâng hạng luôn mang lại những tác động tích cực và bền vững cho nền kinh tế. Nhờ nâng hạng, thị trườngchứng khoán(TTCK) Việt Nam có thể thu hút tới 25 tỷ USD vốn đầu tư quốc tế đến năm 2030"", chia sẻ đáng chú ý của ông Hà Duy Tùng - Phó chủ tịch Ủy ban Chứng khoán Nhà nước (UBCKNN) - tại tọa đàm chứng khoán diễn ra chiều 5/1 tại TPHCM.
+
+Tại kỳ rà soát tháng 9/2025, FTSE Russell xác nhận Việt Nam đã đáp ứng đầy đủ các tiêu chí để được xếp vào nhóm thị trường mới nổi thứ cấp. Tuy nhiên, để chính thức được nâng hạng vào tháng 9/2026, Việt Nam vẫn cần giải quyết một số vấn đề còn tồn tại, trong đó đáng chú ý là hạn chế về khả năng tiếp cận thị trường của các công ty môi giới toàn cầu.
+
+Theo ông Hà Duy Tùng, việc nâng hạng sẽ thúc đẩy mạnh mẽ dòng vốn đầu tư gián tiếp nước ngoài (FII). Tính đến cuối năm 2024, tổng giá trị danh mục đầu tư gián tiếp nước ngoài đạt khoảng 50 tỷ USD, gấp đôi vốn đầu tư trực tiếp cùng kỳ. Khi Việt Nam được đưa vào nhóm ""th",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:16.430703+00:00,0,2,0,0,"B?i v? kh? n?ng n?ng h?ng ch?ng kho?n v? d?ng v?n qu?c t?, kh?ng ?? c?p t?c ??ng c?a chi?n s? Trung ??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+10,q025,Ngưỡng doanh thu nào khiến hộ kinh doanh phải kê khai hoặc nộp thuế?,article-01966,Chính thức nâng ngưỡng doanh thu chịu thuế lên 500 triệu đồng từ hôm nay,dantri,https://dantri.com.vn/kinh-doanh/chinh-thuc-nang-nguong-doanh-thu-chiu-thue-len-500-trieu-dong-tu-hom-nay-20260101014541928.htm,"Từ năm nay, loạt thay đổi lớn về thuế thu nhập cá nhân, thuế kinh doanh, thuế tiêu thụ đặc biệt, thuế môi trường và các ưu đãi thuế, ảnh hưởng trực tiếp đến người dân và doanh nghiệp.
+
+Từ hôm nay, hình thức thu thuế khoán với hộkinh doanhsẽ được bãi bỏ và chuyển sang tự kê khai, nộp thuế theo Nghị quyết 68 của Bộ Chính trị.
+
+Việc chính thức bỏ thuế khoán và chuyển sang kê khai thuế đánh dấu bước thay đổi quan trọng trong quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh. Theo đó, cơ quan thuế sẽ không còn ấn định mức thuế cố định như trước, mà yêu cầu người nộp thuế thực hiện kê khai doanh thu, chi phí và nghĩa vụ thuế theo thực tế phát sinh.
+
+Cách làm này nhằm tăng tính minh bạch, công bằng giữa các chủ thể kinh doanh, hạn chế thất thu ngân sách, đồng thời phù hợp với xu hướng quản lý thuế hiện đại, gắn với hóa đơn điện tử và chuyển đổi số. Dù có thể tạo áp lực ban đầu cho hộ kinh doanh nhỏ lẻ trong sổ sách, kê khai, nhưng về dài hạn, đây được kỳ vọng sẽ tạo môi trường kinh doanh",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:20.214671+00:00,3,2,3,3,B?i n?u r? ng??ng doanh thu ch?u thu? 500 tri?u ??ng v? th?i ?i?m ?p d?ng.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+11,q011,Mức thuế nhập khẩu do Mỹ áp đặt khiến các nước xích lại gần nhau hơn như thế nào?,article-01773,Các điều khoản chính của Hiệp định thương mại đối ứng giữa Việt Nam và Mỹ,dantri,https://dantri.com.vn/kinh-doanh/cac-dieu-khoan-chinh-cua-hiep-dinh-thuong-mai-doi-ung-giua-viet-nam-va-my-20251026184955653.htm,"Ngày 26/10, Việt Nam và Mỹ đã đồng ý công bố Tuyên bố chung về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng, điều này nhằm tăng cường quan hệ kinh tế song phương, qua đó tạo điều kiện tiếp cận thị trường sâu rộng cho hàng xuất khẩu của nhau.
+
+Bộ Công Thương cho biết Hiệp định Thương mại đối ứng, công bằng và cân bằng sẽ kế thừa và phát triển trên nền tảng quan hệ kinh tế lâu bền giữa 2 nước, bao gồm Hiệp định Thương mại song phương Mỹ - Việt Nam được ký kết năm 2000 và có hiệu lực từ năm 2001.
+
+Các điều khoản chính của Hiệp định thương mại đối ứng, công bằng và cân bằng giữa 2 nước sẽ bao gồm: Việt Nam sẽ dành quyền tiếp cận thị trường ưu đãi cho gần như toàn bộ hàng xuất khẩu nông nghiệp và công nghiệp của Mỹ.
+
+Trong khi đó, Mỹ sẽ duy trì mức thuế đối ứng 20% áp dụng từ tháng 4 đối với hàng hóa có xuất xứ từ Việt Nam; đồng thời sẽ xác định một số sản phẩm để được hưởng mức thuế đối ứng 0%.
+
+Mỹ và Việt Nam sẽ hợp tác trên tinh thần xây dựng nhằm nỗ lực giải quyết mối q",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:21.573931+00:00,1,2,2,2,"B?i tr?nh b?y c?c ?i?u kho?n thu? quan trong th?a thu?n M?-Vi?t, nh?ng kh?ng ph?n t?ch tr?c ti?p vi?c c?c n??c x?ch l?i g?n nhau.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+12,q030,Bộ Công Thương đề xuất giải pháp nào để tháo gỡ vướng mắc cho các dự án năng lượng?,article-01462,"Loạt dự án điện tái tạo ""bế tắc"", Thủ tướng yêu cầu khẩn trương gỡ khó",dantri,https://dantri.com.vn/kinh-doanh/loat-du-an-dien-tai-tao-be-tac-thu-tuong-yeu-cau-khan-truong-go-kho-20250723144949704.htm,"Phó Thủ tướng Thường trực Nguyễn Hòa Bình vừa ký công điện của Thủ tướng Chính phủ yêu cầu các bộ ngành, đơn vị liên quan khẩn trương thực hiện các nhiệm vụ được giao tại Nghị quyết 233/2024 về tháo gỡ vướng mắc, khó khăn cho các dự án điện tái tạo.
+
+Công điện nêu rõ, còn nhiều nhiệm vụ vẫn chưa hoàn thành, tháo gỡ được khó khăn cho nền kinh tế như báo cáo của Bộ Công Thương. Đặc biệt vẫn còn một số địa phương, bộ, ngành, cơ quan chưa làm hết trách nhiệm trong việc tháo gỡ khó khăn, cho các dự án.
+
+Về vướng mắc, khó khăn hưởng giá điện cố định (FIT - Feed-in Tariff) của các dự án điện gió, điện mặt trời, Thủ tướng giao Bộ trưởng Công Thương, Tổng Giám đốc Tập đoàn Điện lực Việt Nam (EVN) chỉ đạo rà soát, đề xuất, kiến nghị rõ phương án xử lý nêu tại văn bản ngày 15/7 của Bộ Công Thương, trên cơ sở đó lấy ý kiến các bộ, cơ quan liên quan, tổng hợp, tiếp thu, giải trình báo cáo Chính phủ trước ngày 25/7.
+
+Tổng giám đốc EVN được giao chỉ đạo thực hiện, hoàn thành xử lý các vướng mắc về th",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:22.562516+00:00,1,2,3,3,"B?i n?u c?c d? ?n ?i?n t?i t?o v??ng m?c v? y?u c?u/nhi?m v? g? kh? c?a Ch?nh ph?, kh?p tr?c ti?p ch? ??.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+13,q023,Giá xăng dầu thay đổi ra sao và điều đó ảnh hưởng gì đến người tiêu dùng?,article-01832,Tin vui với giá xăng: Giảm 5 phiên liên tiếp,dantri,https://dantri.com.vn/kinh-doanh/tin-vui-voi-gia-xang-giam-5-phien-lien-tiep-20260108133441166.htm,"Chiều 8/1, liên Bộ Tài chính, Bộ Công Thương điều chỉnh giá bán lẻ xăng dầu, áp dụng từ 15h cùng ngày.
+
+Cơ quan điều hành quyết định giảm 200 đồng/lít với xăng E5 RON 92 và giảm 350 đồng/lít với xăng RON 95. Sau điều chỉnh, giá bán lẻ với xăng E5 RON 92 là 18.230 đồng/lít và xăng RON 95 là 18.560 đồng/lít.
+
+Trong khi đó, dầu diesel giảm 190 đồng/lít về 17.060 đồng/lít, dầu hỏa giảm 140 đồng/lít về 17.550 đồng/lít; dầu mazut tăng 60 đồng/kg lên mức 13.400 đồng/kg. Cơ quan điều hành vẫn duy trì không trích hay chi quỹ bình ổn giá.
+
+Như vậy,giá xăngtrong nước đã giảm 5 phiên liên tiếp. Trong năm 2025, xăng RON 95 tăng 27 lần, giảm 27 lần. Dầu diesel có 24 lần tăng, 27 lần giảm và 2 lần giữ nguyên.
+
+Dư địa quỹ bình ổn giá xăng dầu của một sốdoanh nghiệpđầu mối vẫn ghi nhận mức dương lớn do nhiều kỳ điều hành gần đây quỹ này không được sử dụng. Số dư quỹ tính đến hết quý II là hơn 5.614 tỷ đồng. Trong đó, số dư tại Tập đoàn Xăng dầu Việt Nam (Petrolimex) chiếm một nửa, ở mức 3.084 tỷ đồng.
+",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:24.610529+00:00,2,2,3,2,"B?i ghi nh?n gi? x?ng gi?m li?n ti?p, nh?ng ph?n th?ng tin ???c cung c?p kh?ng n?i r? t?c ??ng c? th? t?i ng??i ti?u d?ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+14,q026,Người có nhà cho thuê phải kê khai và nộp thuế như thế nào?,article-01037,Người có nhà cho thuê nộp thuế ra sao?,dantri,https://dantri.com.vn/kinh-doanh/nguoi-co-nha-cho-thue-nop-thue-ra-sao-20260127151845754.htm,"Trong bối cảnh cơ quan thuế tăng cường quản lý, chuẩn hóa dữ liệu và siết chặt việc kê khai, nộp thuế, người có nhà cho thuê nếu không kịp thời cập nhật quy định mới rất dễ phát sinh sai sót, thậm chí đối mặt với rủi ro bị truy thu, xử phạt. Vì vậy, việc nắm rõ những điểm cần lưu ý ngay từ đầu là yếu tố then chốt để thực hiện đúng nghĩa vụ thuế và tránh những hệ lụy không đáng có.
+
+Theo quy định áp dụng từ năm nay, hoạt động cho thuê phòng trọ được xếp vào nhóm cho thuê tài sản, không thuộc loại hình dịch vụ lưu trú. Trường hợp doanh thu cho thuê nhà dưới 500 triệu đồng/năm, hộ và cá nhânkinh doanhchưa phải nộp thuế giá trị gia tăng (VAT) và thuế thu nhập cá nhân.
+
+Tuy nhiên, theo dự thảo Nghị định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, các trường hợp này vẫn phải thông báo doanh thu thực tế trong năm 2026 cho cơ quan thuế theo định kỳ 2 lần.
+
+Lần 1 thông báo doanh thu 6 tháng đầu năm, thời hạn chậm nhất ngày 31/7. Lần 2 thông báo doanh thu 6 tháng cuối năm, thời hạn",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:26.651340+00:00,3,2,3,3,B?i gi?i th?ch tr?c ti?p c?ch k? khai v? n?p thu? ??i v?i nh? cho thu?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+15,q037,Các hãng bay đang mở thêm đường bay hoặc đầu tư đội tàu bay như thế nào?,article-01501,"Bứt phá trong năm 2025, Vietnam Airlines khẳng định vị thế bằng thực lực",dantri,https://dantri.com.vn/kinh-doanh/but-pha-trong-nam-2025-vietnam-airlines-khang-dinh-vi-the-bang-thuc-luc-20260116104851994.htm,"Mở rộng đúng thời điểm: Khi mạng bay trở thành nền móng thương hiệu
+
+Sau giai đoạn biến động kéo dài của thị trường hàng không toàn cầu, Vietnam Airlines bước vào năm 2025 với lựa chọn mang tính chiến lược - mở rộng mạng bay để tái khẳng định vị thế, nhưng đặt yêu cầu giữ vững chuẩn mực vận hành và chất lượng dịch vụ làm nguyên tắc xuyên suốt.
+
+Trong năm, hãng mở mới và khai thác trở lại 14 đường bay quốc tế, kết nối Việt Nam với các thị trường trọng điểm tại châu Âu, Đông Bắc Á, Trung Đông và Đông Nam Á.
+
+Đây là quy mô mở rộng mạng bay quốc tế lớn nhất trong lịch sử Vietnam Airlines, thể hiện sự chủ động quay lại các đường bay dài - phân khúc đòi hỏi năng lực khai thác ổn định, đội tàu hiện đại và hệ thống dịch vụ đồng bộ.
+
+Vietnam Airlines mở rộng mạnh mẽ mạng bay quốc tế trong năm 2025, tiên phong hiện thực hóa Nghị quyết 59 (Ảnh: Vietnam Airlines).
+
+Ở góc độ quản trị hàng không, mỗi đường bay mới không chỉ là quyết định thương mại ngắn hạn, mà là một cam kết vận hành dài hạn về đội",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:28.149866+00:00,2,2,3,3,B?i n?u Vietnam Airlines m? m?i v? khai th?c tr? l?i 14 ???ng bay qu?c t? trong n?m 2025.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+16,q028,Những doanh nghiệp nào được nhắc đến trong kế hoạch phát triển ngành đường sắt quy mô lớn?,article-01777,"Hé lộ về doanh nghiệp ""nổ"" có 100 tỷ USD làm đường sắt cao tốc Bắc - Nam",dantri,https://dantri.com.vn/kinh-doanh/he-lo-ve-doanh-nghiep-no-co-100-ty-usd-lam-duong-sat-cao-toc-bac-nam-20251130175303919.htm,"Doanh nghiệp""nổ"" có 100 tỷ USD làm đường sắt cao tốc Bắc - Nam
+
+Tại cuộc họp về dự án đường sắt tốc độ cao trên trục Bắc - Nam diễn ra chiều 27/11, Phó Thủ tướng Nguyễn Hòa Bình cho biết cuộc họp đã mời 6 doanh nghiệp cóđăng kýlàm việc, nhưng chỉ có 5 doanh nghiệp tới dự.
+
+Doanh nghiệp không xuất hiện là Liên minh nhà đầu tư Mekolor và Great USA (Mỹ). Chính phủ đã liên hệ mà không thể tìm ra được địa chỉ. Đây cũng là đơn vị từng tuyên bố hùng hồn về việc huy động 100 tỷ USD cho dự án.
+
+Theo Cổng thông tin Quốc gia về đăng ký doanh nghiệp, Công ty cổ phần Mekolor thành lập năm 2016 với ngành nghề chính là giới thiệu và xúc tiến thương mại, do ông Võ Xuân Trường là đại diện pháp lý.
+
+Trụ sở chính của công ty đặt tại Cần Thơ. Theo tìm hiểu của phóng viênDân trí, địa chỉ này nằm trong một con ngõ nhỏ, thậm chí ôtô không thể vào. Ngôi nhà cao 2 tầng, bên ngoài có treo bảng hiệu tên công ty với các thông tin như mã số thuế, địa chỉ, trang web, số điện thoại.
+
+Trụ sở Mekolor (Ảnh: Bảo Kỳ).
+
+M",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:29.796818+00:00,1,2,3,3,B?i n?u doanh nghi?p t? c?ng b? tham gia k? ho?ch ???ng s?t t?c ?? cao v? th?ng tin v? ?? xu?t c?a h?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+17,q022,Giá vàng trong nước và thế giới biến động như thế nào?,article-01441,Phiên đầu năm 2026: Vàng trong nước giảm 2 triệu đồng/lượng,dantri,https://dantri.com.vn/kinh-doanh/phien-dau-nam-2026-vang-trong-nuoc-giam-2-trieu-dongluong-20260101105004293.htm,"Phiên sáng ngày 1/1,giá vàngtrong nước tiếp tục giảm chung với xu hướng của vàng thế giới.
+
+Hiện, các thương hiệu vàng đang niêm yết vàng miếng SJC ở mức 150,8 triệu đồng/lượng mua vào và 152,8 triệu đồng/lượng bán ra. So với sáng qua, giá vàng miếng hôm nay đã giảm tới gần 2 triệu đồng/lượng.
+
+Cùng xu hướng với vàng miếng, giá vàng nhẫn điều chỉnh giảm sâu trong phiên hôm qua.
+
+Cụ thể, SJC niêm yết giá vàng nhẫn ở mức 145,9 triệu đồng/lượng mua vào và 148,9 triệu đồng/lượng bán ra (giảm 1,9 triệu đồng/lượng so với giá hôm qua ở cả 2 chiều). Có thương hiệu đang niêm yết giá bán ra vàng nhẫn cao nhất ở mức 155 triệu đồng/lượng, cũng giảm so với giá hôm qua.
+
+Trên thế giới, giá vàng thế giới giảm mạnh và rơi xuống mức thấp nhất trong vòng ba tuần trong phiên giao dịch thứ Tư, giá bạc cũng lao dốc sâu.
+
+Tại thời điểm ghi nhận, giá vàng giao ngay quanh ngưỡng 4.137,60 USD/ounce, chênh khoảng 20 triệu đồng/lượng so với trong nước.
+
+Theo các chuyên gia, thứ Sáu tuần này (ngày 2/1), có thể là",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:32.640876+00:00,3,2,3,3,B?i ??a tin tr?c ti?p gi? v?ng trong n??c gi?m 2 tri?u ??ng/l??ng.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+18,q036,Có hãng hàng không mới nào chuẩn bị gia nhập thị trường và ai đứng sau?,article-01412,Công ty đại gia Việt kín tiếng vừa lập Crystal Bay Airlines làm ăn ra sao?,dantri,https://dantri.com.vn/kinh-doanh/cong-ty-dai-gia-viet-kin-tieng-vua-lap-crystal-bay-airlines-lam-an-ra-sao-20260118095434849.htm,"Theo đăng ký kinh doanh, Công ty cổ phần Crystal Bay Airlines được thành lập ngày 6/11/2025, với vốn điều lệ 300 tỷ đồng, hoạt động với 51 ngành nghề, trong đó lĩnh vực chính là vận chuyển hành khách hàng không.
+
+Cơ cấu cổ đông sáng lập của công ty này là Công ty cổ phần Tập đoànDu lịchCrystal Bay góp 282 tỷ đồng, tương đương 94% vốn điều lệ. Một cổ đông lớn khác là ông Nguyễn Đức Chi, góp 15 tỷ đồng, chiếm 5%. Ông Nguyễn Đức Chi cũng đang là Chủ tịch của Crystal Bay Airlines. Ông Chi được biết đến là một đại gia trong nhóm đại gia Việt từ Đông Âu tương đối kín tiếng.
+
+Đã tham gia ngành hàng không từ năm 2022
+
+Việc gia nhập vào ngành hàng không của đại gia kín tiếng này không quá khó hiểu, khi Tập đoàn Du lịch Crystal Bay được biết đến làdoanh nghiệphoạt động chủ yếu trong các lĩnh vực du lịch, lữ hành, nghỉ dưỡng và đầu tư bất động sản du lịch.
+
+Ghi nhận trên website công ty cho thấy từ khoảng năm 2022, Tập đoàn Du lịch Crystal Bay đã tham gia vào mảng vận tải hàng không phục vụ du lị",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:34.100769+00:00,3,2,3,3,B?i n?u Crystal Bay Airlines m?i th?nh l?p c?ng c? c?u c? ??ng v? ng??i ??ng sau.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+19,q037,Các hãng bay đang mở thêm đường bay hoặc đầu tư đội tàu bay như thế nào?,article-01687,"Cái cân ở cửa ra máy bay gây tranh cãi, Cục Hàng không ra chỉ đạo",dantri,https://dantri.com.vn/kinh-doanh/cai-can-o-cua-ra-may-bay-gay-tranh-cai-cuc-hang-khong-ra-chi-dao-20251105215833897.htm,"Cục Hàng không Việt Nam vừa có văn bản gửi các hãng hàng không và đơn vị phục vụ mặt đất, yêu cầu rà soát toàn bộ quy trình kiểm soát hành lý xách tay tại khu vực làm thủ tục và cửa lên tàu bay, nhằm tránh ùn tắc, đảm bảo an toàn và tạo thuận lợi cho hành khách.
+
+Theo Cục Hàng không, thời gian qua, một số hãng kiểm tra hành lý xách tay chưa chuyên nghiệp, gây phiền hà cho hành khách và ảnh hưởng đến hình ảnh ngành hàng không.
+
+Cơ quan này yêu cầu các hãng sử dụng thiết bị cân đạt chuẩn, có tính thẩm mỹ, đồng thời tuyên truyền rõ quy định hành lý trên website, văn phòng bán vé và hệ thống đại lý.
+
+Ngoài ra, nhân viên phục vụ cần được quán triệt về thái độ chuyên nghiệp, thân thiện, góp phần nâng cao chất lượng dịch vụ và đảm bảo khởi hành đúng giờ.
+
+Hãng bay kiểm soát hành lý xách tay của khách ở ngay trước cửa ra tàu bay (Ảnh chụp màn hình).
+
+Theo quy định mới của Vietnam Airlines, từ ngày 3/11, hành lý xách tay vượt quá tiêu chuẩn sẽ bị tính phí trực tiếp tại cửa ra máy bay, mức phí t",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:34.762588+00:00,0,2,0,0,"B?i n?i v? ki?m so?t h?nh l? x?ch tay t?i c?a l?n m?y bay, kh?ng n?i v? ???ng bay hay ??u t? ??i t?u.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+20,q031,Người mua sắm dịp Tết có thể nhận ưu đãi nào từ chuỗi điện máy?,article-01574,Điện máy Xanh khởi động chương trình “Tết FREE Mã” với loạt ưu đãi cuối năm,dantri,https://dantri.com.vn/kinh-doanh/dien-may-xanh-khoi-dong-chuong-trinh-tet-free-ma-voi-loat-uu-dai-cuoi-nam-20260114152857212.htm,"Không khí Tết đang dần len lỏi khắp phố phường, cũng là lúc nhiều gia đình bắt đầu nghĩ đến chuyện làm mới tổ ấm. Một chiếc tivi màn hình lớn để cả nhà quây quần ngày đầu năm, hay chiếc tủ lạnh mới đầy ắp thực phẩm cho mâm cỗ Tết, luôn mang lại cảm giác háo hức riêng của những ngày cuối năm.
+
+Góp thêm sắc màu cho mùa mua sắm ấy, Điện máy Xanh năm nay khởi động sớm chương trình “Tết FREE Mã” với loạt ưu đãi được thiết kế để người dùng tận hưởng trọn vẹn cảm giác sắm Tết. Từ khâu chọn mua đến lúc mang sản phẩm về nhà đều trở nên nhẹ nhàng hơn, để niềm vui sắm sửa không chỉ dừng lại ở món đồ mới, mà còn là trải nghiệm thoải mái và hứng khởi suốt những ngày cận Tết.
+
+Khởi động “Tết FREE Mã”, khách hàng sẽ nhận hàng nghìn lì xì trị giá đến 9 triệu đồng cùng nhiều quà tặng là các sản phẩm gia dụng thiết thực như máy hút bụi, chảo hay bình đun siêu tốc... Chính sách này giúp người tiêu dùng tạo nên tâm lý phấn khởi, vui vẻ đón Tết.
+
+Không chỉ có quà, Điện máy Xanh còn tung ra loạt ưu đãi giúp",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:35.716652+00:00,3,2,3,3,B?i c?ng b? ch??ng tr?nh khuy?n m?i T?t c?a ?i?n m?y Xanh v? c?c ?u ??i c? th?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+21,q050,Việc kiểm soát tín dụng bất động sản ảnh hưởng ra sao đến cổ phiếu nhà đất?,article-02148,"Để không bị lừa khi mua bán bất động sản, người dân cần đọc những điều này",thanhnien,https://thanhnien.vn/de-khong-bi-lua-khi-mua-ban-bat-dong-san-nguoi-dan-can-doc-nhung-dieu-nay-185260128172257315.htm,"Theo đó, luật Đất đai 2024 quy định người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằngquyền sử dụng đấtkhi có đủ các điều kiện sau đây:
+
+Có sổ hồng, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đối thửa, tặng cho quyền sử dụng đất cho nhà nước, cộng đông dân cư và trường hợp quy định tại khoản 7 điều 124 và điểm a khoản 4 điều 127 của của luật này.
+
+Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền.
+
+Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự. Không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật và còn thời hạn sử dụng.
+
+Trường hợp chủ đầu tư chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án, ngoài các điều kiện trên, còn phải đáp ứng điều kiện khác theo quy định của luật Kinh doanh ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:37.242467+00:00,0,2,0,0,"B?i h??ng d?n ?i?u ki?n chuy?n nh??ng/ s? d?ng quy?n ??t, kh?ng n?i v? ki?m so?t t?n d?ng hay c? phi?u b?t ??ng s?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+22,q022,Giá vàng trong nước và thế giới biến động như thế nào?,article-01843,Dự báo giá vàng sau tuần biến động mạnh mẽ,dantri,https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-bien-dong-manh-me-20251207004456358.htm,"Kết thúc tuần giao dịch từ ngày 1/12 đến ngày 7/12,giá vàngmiếng SJC được các doanh nghiệp lớn niêm yết ở mức 152,2-154,2 triệu đồng/lượng (mua vào - bán ra). Chênh lệch giá mua - bán tiếp tục được duy trì ở mức 2 triệu đồng/lượng.
+
+Mở cửa đầu tuần, vàng miếng được niêm yết ở mức 153,2-155,2 triệu đồng/lượng. Như vậy, sau một tuần giao dịch, cả 2 chiều mua và bán giảm 1 triệu đồng/lượng. Trước đó, kim loại quý có tuần tăng 4,5 triệu đồng/lượng.
+
+Giá vàng trong nước giảm trong bối cảnh thị trường quốc tế biến động mạnh. Theo đó, giá vàng thế giới khởi đầu ở mức 4.217 USD/ounce và nhanh chóng tăng lên 4.262 USD/ounce, cũng là mức cao nhất trong tuần.
+
+Tuy nhiên, vàng đã giảm trở lại, chạm đáy 4.170 USD/ounce trước khi dao động quanh 4.185-4.225 USD. Các nhịp tăng -  giảm nhanh phản ánh thị trường đang chịu ảnh hưởng mạnh từ các dữ liệu kinh tế và dự báo chính sách tiền tệ sắp tới.
+
+Mặt hàng vàng được doanh nghiệp bày bán (Ảnh: Mạnh Quân).
+
+Kỳ vọng về lãi suất tại Mỹ đã thay đổi nhanh và ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:37.952410+00:00,3,2,3,3,"B?i d? b?o gi? v?ng sau tu?n bi?n ??ng m?nh, ??ng ch? ?? bi?n ??ng gi? v?ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+23,q019,Vì sao cư dân một khu chung cư chờ giấy chứng nhận quyền sở hữu suốt nhiều năm?,article-02836,"Dành quỹ đất xây nhà ở, tạo ‘bệ đỡ an sinh’ vững chắc cho công nhân",tienphong,https://tienphong.vn/danh-quy-dat-xay-nha-o-tao-be-do-an-sinh-vung-chac-cho-cong-nhan-post1804802.tpo,"“Bệ đỡ an sinh” cho các gia đình công nhân
+
+Thưa ông, vì sao việc phát triển nhà ở công đoàn cho công nhân lại trở thành một yêu cầu cấp thiết trong bối cảnh hiện nay?
+
+Với tốc độ đô thị hóa cao và lực lượng lao động tại các khu công nghiệp tăng trưởng mạnh mẽ, việc phát triển nhà ở công đoàn cho công nhân không chỉ là một nhu cầu cấp bách mà còn là yếu tố quyết định sự ổn định và phát triển lâu dài.
+
+Thống kê cho thấy, cả nước có hơn 430 khu công nghiệp với khoảng 4,1 triệu lao động, nhưng 70 - 80% công nhân phải thuê trọ tại khu dân cư tự phát, ảnh hưởng tới năng suất và khả năng thu hút đầu tư tại các khu công nghiệp.
+
+Công nhân, người lao động – những trụ cột của nền kinh tế đang phải đối mặt với những khó khăn lớn về chỗ ở, đặc biệt tại các trung tâm công nghiệp, nơi giá nhà đất leo thang do áp lực lạm phát và đô thị hóa, khiến đa số họ khó tiếp cận nhà ở thương mại.
+
+Đại dịch COVID-19 và các cú sốc kinh tế toàn cầu đã cho thấy những lỗ hổng trong hệ thống an sinh xã hội dẫn đến t",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:40.114745+00:00,0,2,0,0,"B?i n?i v? nh? ? cho c?ng nh?n, kh?ng gi?i th?ch vi?c c? d?n m?t chung c? ch? gi?y ch?ng nh?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+24,q041,"Sau đợt giảm mạnh của Bitcoin, những kịch bản nào được dự báo cho năm 2026?",article-01680,"Bitcoin tăng vọt rồi sập mạnh, nhà đầu tư sợ hãi",dantri,https://dantri.com.vn/kinh-doanh/bitcoin-tang-vot-roi-sap-manh-nha-dau-tu-so-hai-20251218144300769.htm,"Giá bitcoin bất ngờ tăng mạnh từ 87.000 USD lên 90.000 USD/BTC chỉ trong khoảng 30 phút, trước khi lao dốc nhanh về vùng 85.000 USD.
+
+Nhà đầu tư bitcoin vừa chứng kiến một diễn biến giá được ví như “mô hình Bart Simpson”. Mô hình này có hình dáng giống phần đầu nhân vật hoạt hình nổi tiếng trong loạt phim Gia đình Simpson, khi giá đột ngột bật tăng, đi ngang trong thời gian ngắn rồi nhanh chóng giảm sâu về mức ban đầu.
+
+Đà giảm của bitcoin cũng phủ bóng lên toàn thị trường tiền mã hóa. Ethereum, đồng tiền số lớn thứ hai thế giới, mất 3,4%, lùi về quanh 2.800 USD. Các token khác như XRP, BNB và Solana lần lượt giảm 4%, 3,67% và 3,68%.
+
+Cú rơi của đồng tiền số lớn nhất thế giới diễn ra cùng thời điểm chỉ số Nasdaq đi xuống, trong bối cảnh cơn sốt AI có dấu hiệu hạ nhiệt và phần lớn cổ phiếu cácdoanh nghiệpbán dẫn đồng loạt giảm mạnh.
+
+Cục Dự trữ Liên bang Mỹ (Fed) vừa quyết định cắt giảm lãi suất 25 điểm cơ bản. Trước đó, nhiều nhà đầu tư kỳ vọng bitcoin sẽ hưởng lợi khi được xem là kênh",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:41.875325+00:00,1,2,1,1,"B?i m? t? Bitcoin t?ng r?i gi?m v? t?m l? nh? ??u t? n?m 2025, nh?ng kh?ng ??a ra k?ch b?n d? b?o cho n?m 2026.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+25,q023,Giá xăng dầu thay đổi ra sao và điều đó ảnh hưởng gì đến người tiêu dùng?,article-01649,"Đa số xăng dầu tăng giá, có loại tăng 540 đồng/lít",dantri,https://dantri.com.vn/kinh-doanh/da-so-xang-dau-tang-gia-co-loai-tang-540-donglit-20251113143155382.htm,"Chiều 13/11, liên BộTài chính- Công Thương điều chỉnh giá bán lẻ xăng dầu, áp dụng từ 15h cùng ngày.
+
+Theo đó, cơ quan điều hành quyết định tăng 160 đồng/lít với xăng E5 RON 92 và xăng RON 95. Sau điều chỉnh, giá bán lẻ với xăng E5 RON 92 là 19.840 đồng/lít và xăng RON 95 là 20.570 đồng/lít.
+
+Dầu diesel tăng 540 đồng/lít lên 19.860 đồng/lít, dầu hỏa cũng tăng 540 đồng/lít lên 19.930 đồng/lít; dầu mazut giảm 250 đồng/kg về mức 14.070 đồng/kg. Cơ quan điều hành vẫn duy trì không trích hay chi quỹ bình ổn giá.
+
+Như vậy,giá xăngtrong nước đã bật tăng chỉ sau một phiên giảm. Từ đầu năm đến nay, xăng RON 95 tăng 26 lần, giảm 21 lần. Dầu diesel có 24 lần tăng, 21 lần giảm và một lần giữ nguyên.
+
+Dư địa quỹ bình ổn giá xăng dầu của một sốdoanh nghiệpđầu mối vẫn ghi nhận mức dương lớn do nhiều kỳ điều hành gần đây quỹ này không được sử dụng. Số dư quỹ tính đến hết quý II là hơn 5.614 tỷ đồng. Trong đó, số dư tại Tập đoàn Xăng dầu Việt Nam (Petrolimex) chiếm một nửa, ở mức 3.084 tỷ đồng.
+
+Ở một ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:42.734585+00:00,2,2,3,2,"B?i c?p nh?t gi? x?ng d?u t?ng, nh?ng kh?ng ph?n t?ch r? h? qu? ??i v?i ng??i ti?u d?ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+26,q022,Giá vàng trong nước và thế giới biến động như thế nào?,article-01877,"Giá vàng giảm 700.000 đồng/lượng, về dưới 154 triệu đồng/lượng",dantri,https://dantri.com.vn/kinh-doanh/gia-vang-giam-700000-dongluong-ve-duoi-154-trieu-dongluong-20251205073833969.htm,"Kết thúc phiên giao dịch ngày 4/12,giá vàngmiếng SJC được các doanh nghiệp lớn niêm yết ở mức 151,8-153,8 triệu đồng/lượng (mua vào - bán ra). Phiên hôm qua, mặt hàng này được điều chỉnh giảm 700.000 đồng/lượng ở cả 2 chiều mua và bán. Chênh lệch giá mua - bán duy trì ở mức 2 triệu đồng/lượng.
+
+So với mức đỉnh ghi nhận ngày 1/12 là 153,7-155,7 triệu đồng/lượng (mua vào - bán ra), giá chiều mua và chiều bán vàng đã giảm 1,9 triệu đồng/lượng.
+
+Vàng miếng trong nước giảm cùng chiều với thị trường quốc tế. Theo đó, giá vàng thế giới giao dịch quanh 4.203 USD/ounce, giảm 26 USD so với trước đó. Quy đổi theotỷ giáchưa thuế, phí, giá vàng thế giới tương đương khoảng 134 triệu đồng/lượng.
+
+Trưởng bộ phận Nghiên cứu hàng hóa và kinh tế vĩ mô Nitesh Sha tại đơn vị chuyên về giao dịch WisdomTree cho biết: “Vàng đang diễn biến chính xác như những gì người ta mong đợi, trong khi nợ chính phủ tăng và lãi suất giảm”.
+
+Mặt hàng vàng được doanh nghiệp bày bán (Ảnh: Mạnh Quân).
+
+Các nhà đầu tư đang trôn",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:43.455186+00:00,3,2,2,3,B?i c?p nh?t tr?c ti?p m?c gi?m v? gi? v?ng trong n??c.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+27,q035,Dòng vốn đầu tư toàn cầu vào công nghệ xanh được ước tính ở quy mô nào?,article-01752,Chuyên gia hiến kế đón dòng vốn lớn vào Việt Nam,dantri,https://dantri.com.vn/kinh-doanh/chuyen-gia-hien-ke-don-dong-von-lon-vao-viet-nam-20251212184847242.htm,"Ngày 12/12, Hiệp hội Tư vấnTài chínhViệt Nam (VFCA) và Tạp chí Đầu tư Tài chính - VietnamFinance tổ chức diễn đàn Triển vọng thị trường vốn Việt Nam 2026 với chủ đề “Bứt phá trên nền tảng mới” tại Hà Nội.
+
+Ổn định thị trường để nâng chất lượng huy động vốn
+
+Tại diễn đàn, TS Lê Minh Nghĩa, Chủ tịch VFCA, đánh giá năm 2025 đã tạo ra 3 nền tảng có tính chất lịch sử cho sự phát triển thị trường và hội nhập tài chính quốc tế của Việt Nam.
+
+Thứ nhất, thị trườngchứng khoánViệt Nam được FTSE Russell nâng hạng từ “cận biên” lên “mới nổi thứ cấp”. Thứ hai, Luật Công nghiệp công nghệ số và Nghị quyết 05 trở thành bộ khung pháp lý đầu tiên cho thị trường tài sản mã hóa. Thứ ba, Nghị quyết 222 về Trung tâm tài chính quốc tế đặt nền móng thể chế để Việt Nam tham gia sâu vào dòng chảy tài chính toàn cầu.
+
+Theo TS Lê Minh Nghĩa, cần tư duy mới - giải pháp mới - cách làm mới để tận dụng những lợi thế Việt Nam đang có (Ảnh: BTC).
+
+Theo ông Nghĩa, thị trường vốn muốn bứt phá cần tư duy mới và cách tiếp c",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:44.063851+00:00,0,2,0,0,"B?i b?n c?ch thu h?t v?n v?o Vi?t Nam, kh?ng ??c t?nh quy m? ??u t? to?n c?u v?o c?ng ngh? xanh.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+28,q035,Dòng vốn đầu tư toàn cầu vào công nghệ xanh được ước tính ở quy mô nào?,article-01600,3 định chế tài chính sẽ rót 100 triệu USD tín dụng xanh vào Việt Nam,dantri,https://dantri.com.vn/kinh-doanh/3-dinh-che-tai-chinh-se-rot-100-trieu-usd-tin-dung-xanh-vao-viet-nam-20260112205754936.htm,"“Ít có quốc gia nào như Việt Nam, tăng trưởng GDP cao và lạm phát ở mức vừa phải. Chưa kể, chính quyền Việt Nam cũng đang có những cơ chế thúc đẩy thị trường, do đó nhu cầu về năng lượng tái tạo và dòng vốn xanh chắc chắn sẽ tăng”, ông Srini Nagarajan, Giám đốc điều hành khu vực châu Á của British International Investment (BII), tổ chức đầu tư quốc tế Anh, nhấn mạnh.
+
+Chia sẻ với phóng viên báoDân trí, ông nêu, định chếtài chínhAnh đang coi Việt Nam là thị trường trọng điểm. BII là đơn vị đầu tư vốn của Chính phủ Vương Quốc Anh tập trung vào các nền kinh tế đang phát triển. Tính đến nay, danh mục đầu tư của Tổ chức Đầu tư Quốc tế Anh tại khu vực Nam Á và Đông Nam Á đạt khoảng 3,2 tỷ USD.
+
+Là người quản lý dòng vốn nước ngoài, ông Srini Nagarajan nhận thấy BII rất được chào đón khi đầu tư tại Việt Nam. Vị này cũng đánh giá cao sự cởi mở của chính sách nước ta 2 năm trở lại đây. Điều này sẽ tạo động lực để BII cũng như các định chế tài chính đối tác tăng cường rót vốn đầu tư vào Việt Nam",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:44.759950+00:00,1,2,2,1,"B?i n?u kho?n t?n d?ng xanh 100 tri?u USD t?i Vi?t Nam, nh?ng kh?ng tr? l?i quy m? to?n c?u c?a ??u t? c?ng ngh? xanh.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+29,q044,Ngân hàng nào dự định tuyển dụng trở lại sau đợt tinh giản hàng nghìn nhân viên?,article-01750,Ngân hàng giữ chân nhân sự giỏi thế hệ mới bằng cổ phần,dantri,https://dantri.com.vn/lao-dong-viec-lam/ngan-hang-giu-chan-nhan-su-gioi-the-he-moi-bang-co-phan-20241025105606587.htm,"Theo thống kê của Ngân hàng nhà nước, 80-90% các ngân hàng hiện đã áp dụng một phần hoặc toàn bộ tiêu chí ESG (định hướng phát triển bền vững) trong hoạt động. Trong đó, gần 50% các ngân hàng đã thành lập bộ phận quản trị rủi ro cho vay vốn tín dụng bảo vệ môi trường.
+
+Một số ngân hàng còn ban hành ""Khung tín dụng xanh"", ""Khung khoản vay bền vững"" nhằm đưa ra quy trình sử dụng và quản lý nguồn vốn vay dành cho dự án thuộc các lĩnh vực xanh, giảm phát thải. Không ít tổ chức tín dụng đã công bố báo cáo riêng về ""phát triển bền vững"".
+
+Tuy nhiên, dù bộ ba tiêu chuẩn ESG đang dần ""phủ đầy"" các ngân hàng tại Việt Nam, nhiều chuyên gia nhận định, hành trình vẫn còn không ít khó khăn, thử thách.
+
+Tại tọa đàm ""Thúc đẩy thực hành ESG trong ngành ngân hàng"" mới diễn ra, bà Phạm Thị Thanh Tùng, Phó Vụ trưởng Vụ Tín dụng các ngành kinh tế, nhận định, khó khăn một phần đến từ nguồn lực và cơ chế.
+
+Thực tế, đến nay, chỉ có số ít ngân hàng thiết lập hệ thống quản lý rủi romôi trường- xã hội hoặc lồng",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:45.357650+00:00,1,2,1,1,"B?i v? gi? ch?n nh?n s? ng?n h?ng b?ng c? ph?n, kh?ng ?? c?p k? ho?ch tuy?n d?ng tr? l?i sau tinh gi?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+30,q050,Việc kiểm soát tín dụng bất động sản ảnh hưởng ra sao đến cổ phiếu nhà đất?,article-01511,"Tín dụng bất động sản bị kiểm soát, cổ phiếu nhà đất ra sao?",dantri,https://dantri.com.vn/kinh-doanh/tin-dung-bat-dong-san-bi-kiem-soat-co-phieu-nha-dat-ra-sao-20260114133312462.htm,"Định hướng về điều hành tín dụng năm 2026 của Ngân hàng Nhà nước mới đây được nêu ra. Trong đó, một nội dung được đề cập là yêu cầu các tổ chức tín dụng kiểm soát chặt chẽ tốc độ tăng trưởng tín dụng đối với các lĩnh vực tiềm ẩn rủi ro, trong đó có lĩnh vực bất động sản trong năm 2026.
+
+Yêu cầu mới theo đó nhằm dẫn dòng vốn tín dụng vào các lĩnh vực sản xuất kinh doanh, các lĩnh vực ưu tiên và động lực tăng trưởng của nền kinh tế, đồng thời đảm bảo ổn định thanh khoản thị trường tiền tệ và an toàn hoạt động của hệ thống ngân hàng.
+
+Điều này đã và đang tác động mạnh mẽ đến tiềm năng của nhóm cổ phiếu bất động sản. Trong phiên ngày 9/1, ngay sau khi thông báo từ Ngân hàng Nhà nước được đưa ra, dù VN-Index tăng mạnh, nhóm cổ phiếu bất động sản lại giảm hơn 1% với thanh khoản trên 7.200 tỷ đồng. Động thái này cho thấy áp lực bán vẫn lớn, đặc biệt ở nhóm bất động sản dân cư khi nhiều mã giảm sàn hoặc mất 5-6%.
+
+Sức ép tập trung chủ yếu ở nhóm bất động sản dân cư, nhiều cổ phiếu nằm sàn với ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:46.063111+00:00,3,2,3,3,B?i ph?n t?ch tr?c ti?p t?n d?ng b?t ??ng s?n v? ph?n ?ng/di?n bi?n c? phi?u nh? ??t.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+31,q018,Có đề xuất nào yêu cầu hộ kinh doanh kê khai các tài khoản ngân hàng?,article-01491,"Đua huy động hàng nghìn tỷ đồng, thị trường trái phiếu cuối năm tăng nhiệt",dantri,https://dantri.com.vn/kinh-doanh/dua-huy-dong-hang-nghin-ty-dong-thi-truong-trai-phieu-cuoi-nam-tang-nhiet-20251222121110938.htm,"Mới nhất,Vietcombank(mã chứng khoán: VCB) vừa phê duyệt phương án phát hành riêng lẻ 2.000 tỷ đồng trái phiếu năm 2025, loại không chuyển đổi, không kèm chứng quyền và không có tài sản bảo đảm, kỳ hạn 2 năm. Trái phiếu có mệnh giá 1 tỷ đồng, lãi suất cố định hoặc thả nổi, tùy điều kiện phát hành.
+
+Trong khi đó, Nông nghiệp BaF Việt Nam (mã chứng khoán: BAF) cũng vừa thông báo sẽ phát hành 1.000 tỷ đồng trái phiếu, lãi cố định 10%/năm nhằm bổ sung vốn cho hoạt động kinh doanh, song song thanh toán một phần tiền nợ gốc các hợp đồng vay.
+
+Trước đó, tính từ đầu tháng 12/2025, cácdoanh nghiệpnhóm ngân hàng, bất động sản, tài chính, tiêu dùng… đã và đang tích cực phát hành trái phiếu, có những lô lên tới hàng nghìn tỷ đồng.
+
+Gần về cuối năm, thêm nhiều công ty huy động hàng nghìn tỷ đồng qua kênh trái phiếu (Ảnh: DT).
+
+Ngày 10/12Techcombank(mã chứng khoán: TCB) đã phát hành 2.000 tỷ đồng trái phiếu, lãi suất 6,5%/năm.
+
+VPBank(mã chứng khoán: VPB) phát hành 3.000 tỷ đồng trong ngày 12/12, lãi",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:46.734945+00:00,0,2,0,0,"B?i n?i v? ph?t h?nh tr?i phi?u doanh nghi?p, kh?ng ?? c?p y?u c?u h? kinh doanh k? khai t?i kho?n ng?n h?ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+32,q016,Ngân hàng nào điều chỉnh lãi suất tiền gửi hoặc lãi suất cho vay gần đây?,article-01952,"Lãi suất tiết kiệm tăng mạnh, gửi tiền ngân hàng nào lãi nhất?",dantri,https://dantri.com.vn/kinh-doanh/lai-suat-tiet-kiem-tang-manh-gui-tien-ngan-hang-nao-lai-nhat-20260105012148019.htm,"Lãi suất tiết kiệm vượt 8%/năm
+
+Theo thống kê của phóng viênDân trí, trong tháng cuối cùng của năm ngoái, đã có 27 ngân hàng tăng lãi suất huy động.
+
+Các đơn vị gồm: Techcombank, MB, NCB, BVBank, Saigonbank, ACB, Bac A Bank, OCB, KienlongBank, Sacombank, SHB, PGBank, VIB, Vikki Bank, VCBNeo, BIDV, VPBank, PVCombank, ABBank, LPBank, BaoViet Bank, Agribank, Vietcombank, VietinBank, SeABank, TPBank, Viet A Bank.
+
+Trong đó, NCB, Techcombank, OCB, MB, ACB, Saigonbank, Sacombank, PGBank, VietinBank, BVBank, VIB đã có hai lần điều chỉnh lãi suất. Riêng VPBank, OCB, và PGBank đã tăng lãi suất lần thứ 3 trong tháng.
+
+Thị trường vừa bước vào giai đoạn nghỉ Tết dương lịch 4 ngày nên năm 2026 chưa có ngân hàng nào điều chỉnh tăng lãi suất huy động.
+
+Theo thống kê biểu lãi suất tiền gửi kỳ hạn 3, 6 và 12 tháng tại các ngân hàng, có 19 ngân hàng tăng lãi suất tiền gửi kỳ hạn 3 tháng, 18 ngân hàng tăng lãi suất kỳ hạn 6 tháng; 26 ngân hàng tăng lãi suất kỳ hạn 12 tháng.
+
+Nhân viên kiểm tra tiền tại n",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:47.410285+00:00,3,2,2,3,B?i li?t k? c?c ng?n h?ng t?ng l?i su?t ti?n g?i v? s? l?n ?i?u ch?nh g?n ??y.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+33,q047,Doanh nghiệp nào ghi nhận mức doanh thu cao kỷ lục trong năm 2025?,article-01154,Lộ diện những ngân hàng báo lãi kỷ lục trên 30.000 tỷ đồng,dantri,https://dantri.com.vn/kinh-doanh/lo-dien-nhung-ngan-hang-bao-lai-ky-luc-tren-30000-ty-dong-20260121134803610.htm,"Tính đến 20/1, nhiều ngân hàng lớn đã công bố sơ bộ tình hìnhkinh doanhnăm 2025. Ghi nhận, hầu hết đơn vị đều báo lãi cao kỷ lục, trong đó tín dụng tăng cao là một trong những động lực chính dẫn dắt chỉ số tăng trưởng.
+
+Ở nhóm Big4,Vietcombankcho biết lợi nhuận trước thuế năm 2025 trên 45.000 tỷ đồng, đạt mức cao nhất lịch sử. Tính đến ngày 31/12/2025, tổng tài sản của ngân hàng này cũng đạt 2,48 triệu tỷ đồng, tăng gần 20% so với cuối năm 2024. Dư nợ cấp tín dụng đối với nền kinh tế đạt khoảng 1,66 triệu tỷ đồng, tăng hơn 15%.
+
+VietinBankcũng ghi nhận lợi nhuận trước thuế riêng lẻ cao kỷ lục trên 41.000 tỷ đồng, tăng 37% so với năm 2024. Quy mô tổng tài sản vượt mức 100 tỷ USD, tăng trưởng khoảng 18% so với năm 2024.
+
+Báo cáo tại Hội nghị triển khai nhiệm vụ, kế hoạch kinh doanh năm 2026, Ban lãnh đạoBIDVcho biết tính đến hết 31/12/2025, lợi nhuận trước thuế hợp nhất đạt trên 36.000 tỷ đồng, tổng tài sản đạt trên 3,25 triệu tỷ đồng, tăng trưởng 20% so với năm 2024.
+
+Ở khối tư nhân,Ngâ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:48.148317+00:00,1,2,2,1,"B?i n?i v? l?i nhu?n k? l?c c?a ng?n h?ng, kh?ng ph?i doanh thu k? l?c nh? c?u h?i y?u c?u.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+34,q027,Công ty nào công bố doanh thu hoặc lợi nhuận tăng cao trong năm vừa qua?,article-03059,Điều giúp Masan lãi kỷ lục gần 6.800 tỉ đồng,nguoilaodong,https://nld.com.vn/dieu-giup-masan-lai-ky-luc-gan-6800-ti-dong-196260128145757605.htm,"Ngày 28-1, Công ty CP Tập đoàn Masan (mã cổ phiếu MSN) công bố báo cáo tài chính chưa kiểm toán năm 2025 với mức lãi kỷ lục 6.764 tỉ đồng.
+
+Masan lãi kỷ lục sau khi tăng gấp 1,6 lần so với năm 2024, trong khi doanh thu ở mức 81.621 tỉ đồng, tăng 8,7%.
+
+Một siêu thị WinMart ở TPHCM
+
+Cụ thể, doanh thu và lợi nhuận của một số công ty con như: WinCommerce (bán lẻ) doanh thu 38.979 tỉ đồng, tăng 18,3%; lợi nhuận cả năm đạt 501 tỉ đồng, tăng gấp 86,6 lần so với cùng kỳ năm ngoái.
+
+Đối với Masan MEATLife (chuỗi cung ứng các sản phẩm từ thịt), doanh thu cả năm đạt 9.230 tỉ đồng, tăng 20,7%; lợi nhuận cả năm đạt 619 tỉ đồng, tăng gấp 24,4 lần so với cùng kỳ.
+
+Phuc Long Heritage (trà sữa Phúc Long) đạt 1.891 tỉ đồng, tăng 16,7%; lợi nhuận cả năm đạt 195 tỉ đồng, tăng 57,2%.
+
+Trà sữa Phúc Long
+
+Trong khi đó, Masan Consumer năm 2025 lại giảm cả doanh thu (30.557 tỉ đồng, giảm 1,1%) và lợi nhuận (6.764 tỉ đồng, giảm 14,6%). Sự suy giảm chủ yếu đến từ thu nhập tài chính thấp hơn so với cùng kỳ, sau ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:48.775543+00:00,3,2,3,3,B?i n?u m?c l?i nhu?n k? l?c c?a Masan trong n?m v?a qua.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+35,q034,VinFast đang hợp tác hoặc mở rộng hoạt động kinh doanh ở thị trường nào?,article-02842,Doanh nghiệp hiến kế vào chuỗi cung ứng toàn cầu,tienphong,https://tienphong.vn/doanh-nghiep-hien-ke-vao-chuoi-cung-ung-toan-cau-post1803250.tpo,"Ông Vũ Đăng Khoa - Phó Tổng giám đốc Công ty Cổ phần Công nghiệp JK cho biết, công ty đã hoạt động trong lĩnh vực sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ gần 20 năm rồi. Hiện, JK Việt Nam đã thành công tham gia vào chuỗi cung ứng của nhiều hãng xe như Honda, Yamaha, Piaggio…
+
+Theo ông Khoa, khi JK bắt đầu thành lập, công ty đã đặt trọng tâm là chuyển dịch và tìm kiếm các đối tác cuối chuỗi làm trong lĩnh vực về xe máy và ô tô do bất kỳ một chuỗi sản phẩm nào hay một sản phẩm bất kỳ trên thị trường cũng cần các doanh nghiệp làm ngành công nghiệp hỗ trợ. Đến bây giờ, công ty đã vươn lên trong các chuỗi của toàn cầu rồi và cũng rất mong muốn thử sức trong một số ngành công nghiệp khác nữa. Công ty cũng có những chiến lược rất cụ thể từ 5-10 năm tới bằng các việc sẽ đầu tư công nghệ như thế nào để vào được trong các sản phẩm, chẳng hạn như liên quan đến các lĩnh vực về máy bay.
+
+Chia sẻ kinh nghiệm nhiều năm trực tiếp làm việc, cung ứng sản phẩm cho các đối tác đa quốc gia, ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:49.383472+00:00,0,2,0,0,"B?i n?i chung v? chu?i cung ?ng to?n c?u, kh?ng n?u VinFast hay th? tr??ng VinFast m? r?ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+36,q032,Doanh thu của các chuỗi bán lẻ và siêu thị tăng giảm ra sao?,article-01835,Vụ 130 tấn lợn bệnh: Loạt siêu thị gấp rút thu hồi sản phẩm Đồ hộp Hạ Long,dantri,https://dantri.com.vn/kinh-doanh/vu-130-tan-lon-benh-loat-sieu-thi-gap-rut-thu-hoi-san-pham-do-hop-ha-long-20260108112143020.htm,"Công an TP Hải Phòng đã khởi tố 9 bị can liên quan vụ tuồn hơn 120 tấn thịt heo nhiễm bệnh vào Công ty cổ phần Đồ hộp Hạ Long. Trong đó, khoảng 2 tấn trong số này đã được đưa vào chế biến, đóng gói thành phẩm trước khi bị phát hiện.
+
+Đáng chú ý, trên websitedoanh nghiệpgiới thiệu, đối tác của Đồ hộp Hạ Long là hàng loạt siêu thị lớn như Lotte Mart, Saigon Co.op, GO!, MM Mega Market, Winmart, Aeon Mall...
+
+Theo báo cáotài chínhhợp nhất soát xét 6 tháng đầu năm 2025, Đồ hộp Hạ Long có khoản phải thu ngắn hạn của khách hàng là Chi nhánh Công ty cổ phần Dịch vụ cà phê Cao Nguyên - chủ sở hữu Highlands Coffee là hơn 3 tỷ đồng; Công ty cổ phần Dịch vụ Thương mại Tổng hợp Wincommerce - chủ sở hữu Winmart là hơn 7 tỷ đồng (tại thời điểm 30/6/2025).
+
+Theo ghi nhận sáng 8/1, trên website của một số siêu thị vẫn hiển thịkinh doanhnhiều sản phẩm của Đồ hộp Hạ Long như pate cột đèn Hải Phòng, thịt xay cao cấp, cá ngừ đóng hộp... người dùng vẫn có thể đặt mua. Tuy nhiên, một số siêu thị khác đã nhan",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:49.999048+00:00,0,2,0,0,"B?i v? thu h?i s?n ph?m ?? h?p nhi?m b?n, kh?ng cung c?p doanh thu chu?i b?n l?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+37,q012,Doanh nghiệp Việt Nam gặp thuận lợi hay khó khăn gì khi xuất khẩu hàng hóa?,article-01325,Ông Vũ Văn Tiền: Không đổi mới là sẽ chết,dantri,https://dantri.com.vn/kinh-doanh/ong-vu-van-tien-khong-doi-moi-la-se-chet-20251010172654521.htm,"Tại phiên toàn cảnhViPEL2025 diễn ra chiều nay (10/10), ông Vũ Văn Tiền - Chủ tịch HĐQT Tập đoàn Geleximco - cho biết, Việt Nam đang có nhiều dư địa phát triển công nghiệp hỗ trợ, song vẫn đối mặt với những điểm nghẽn về tỷ lệ nội địa hóa, giá trị gia tăng và năng lực liên kết trong chuỗi cung ứng.
+
+Ông Tiền nhận định tỷ lệ nội địa hóa của các ngành chủ lực vẫn rất thấp. Cụ thể, máy móc thiết bị mới đạt 25-35%; hóa chất, vật liệu khoảng 30%,ô tôvà linh kiện chỉ 5-20%.
+
+“Hơn 70% kim ngạch xuất khẩu công nghiệp hiện vẫn phụ thuộc vào khốidoanh nghiệpFDI, trong khi doanh nghiệp nội địa chủ yếu tham gia khâu gia công, giá trị thu về còn khiêm tốn. Điều này khiến năng lực tự chủ công nghiệp quốc gia vẫn yếu”, ông Tiền nêu.
+
+Bối cảnh mới hiện nay ghi nhận làn sóng FDI dịch chuyển, các hiệp định FTA thế hệ mới cùng xu hướng xanh hóa và số hóa đang mở ra cơ hội lớn để Việt Nam nâng tầm trong chuỗi giá trị toàn cầu. Tuy nhiên, rào cản mới về thuế, tiêu chuẩn ESG, yêu cầu truy xuất nguồn gốc và ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:50.601577+00:00,2,2,2,2,"B?i n?u c?c ?i?m ngh?n n?i ??a h?a, gi? tr? gia t?ng v? m?c ph? thu?c FDI trong xu?t kh?u c?ng nghi?p.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+38,q045,Doanh nghiệp năng lượng và điện đang đầu tư vào những dự án nào?,article-01798,Điện mặt trời mái nhà dư thừa có thể bán tới 50% sản lượng,dantri,https://dantri.com.vn/kinh-doanh/dien-mat-troi-mai-nha-du-thua-co-the-ban-toi-50-san-luong-20260108174631773.htm,"Bộ Công Thương vừa gửi Bộ Tư pháp thẩm định dự thảo lần 3 Nghị định sửa đổi, bổ sung một số điều của Nghị định 57/2025 về cơ chế mua bán điện trực tiếp và Nghị định 58/2025 quy định chi tiết Luật Điện lực liên quan đến phát triển điện năng lượng tái tạo, năng lượng mới.
+
+Theo dự thảo Nghị định, điện mặt trời mái nhà tự sản xuất, tự tiêu thụ được phép bán phần điện dư thừa gồm: Hệ thống của hộ gia đình; hệ thống đấu nối lưới điện quốc gia ở cấp hạ áp; hệ thống lắp đặt tại khu vực miền núi, biên giới, hải đảo có lưới điện nhưng chưa liên kết hệ thống điện quốc gia.
+
+Ngoài ra, hệ thống lắp đặt tại công trình là tài sản công (phải tuân thủ quy định về quản lý, sử dụng tài sản công) và các hệ thống khác có đấu nối lưới điện quốc gia, phù hợp với quy hoạch phát triển điện lực cũng được phép bán phần điện dư.
+
+Việc mua bán theo thỏa thuận, nhưng không vượt quá 50% sản lượng điện phát ra. Sản lượng điện dư được thanh toán bao gồm điện từ hệ thống điện mặt trời mái nhà và cả điện từ hệ thống lư",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:51.179577+00:00,0,2,1,1,"B?i n?i v? b?n ?i?n m?t tr?i m?i nh? d? th?a theo d? th?o ch?nh s?ch, kh?ng m? t? doanh nghi?p ??u t? d? ?n c? th?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+39,q032,Doanh thu của các chuỗi bán lẻ và siêu thị tăng giảm ra sao?,article-01189,Thế Giới Di Động kiếm gần 430 tỷ đồng mỗi ngày,dantri,https://dantri.com.vn/kinh-doanh/the-gioi-di-dong-kiem-gan-430-ty-dong-moi-ngay-20260124083107338.htm,"Công ty cổ phần Đầu tư Thế Giới Di Động (mã chứng khoán: MWG) vừa công bố tình hìnhkinh doanhnăm 2025. Doanh thu thuần công ty đạt 156.166 tỷ đồng (gần 6 tỷ USD), tương đương thu về 428 tỷ đồng mỗi ngày - tăng 16,2% so với năm 2024 và vượt 4% kế hoạch năm.
+
+Doanh thu online đóng góp khoảng 9.200 tỷ đồng, chiếm 5,9% tổng nguồn thu của tập đoàn.
+
+Lý do được đơn vị này nêu là nền kinh tế năm 2025 tăng trưởng tích cực, sứctiêu dùngnội địa được cải thiện khi mà tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng tăng 9,2% so với cùng kỳ... cùng các động thái từ chính doanh nghiệp.
+
+Ông Nguyễn Đức Tài (Ảnh: MWG).
+
+Xét riêng từng chuỗi, hiện Thế Giới Di Động - bao gồm Topzone và Điện Máy Xanh vẫn đóng góp chính cho doanh thu công ty, lần lượt đạt 37.300 tỷ đồng và 68.400 tỷ đồng, tương ứng mức tăng trưởng 18% so với năm 2024.
+
+Chuỗi Bách Hóa Xanh ghi nhận doanh thu gần 46.850 tỷ đồng, tăng 14%. Đáng chú ý, Bách Hóa Xanh được biết đã hiện diện tại miền Bắc sau gần 10 năm hoạt động.
+
+Bên cạ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:53.944825+00:00,3,2,3,3,B?i b?o c?o doanh thu ng?y v? doanh thu c?c chu?i b?n l? c?a Th? Gi?i Di ??ng.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+40,q031,Người mua sắm dịp Tết có thể nhận ưu đãi nào từ chuỗi điện máy?,article-01618,Giải mã WiNX,dantri,https://dantri.com.vn/kinh-doanh/giai-ma-winx-20260113143548076.htm,"Theo đó, khi chọn mua một số sản phẩm quen thuộc trong căn bếp hàng ngày như nước mắm Nam Ngư, Đệ Nhị hay tương ớt CHIN-SU, khách hàng quét mã QRCode trên vỏ chai, đăng ký trở thành thành viên WiNX, nhận ngay 10% điểm thưởng tích lũy và voucher trị giá 20.000 đồng để mua sắm các sản phẩm nhãn hiệu Masan.
+
+Những lợi ích này được tích hợp trực tiếp vào trải nghiệm mua sắm, khiến nhiều người tiêu dùng cảm nhận rõ ràng rằng việc mua sắm của mình “được cộng thêm” một cách dễ dàng và nhanh chóng.
+
+Dấu hiệu WiNX và trải nghiệm quét mã này hiện đã được triển khai rộng rãi tại hơn 345.000 cửa hàng tạp hóa trên toàn quốc, giúp người tiêu dùng dễ dàng bắt gặp ngay tại những điểm mua sắm quen thuộc hàng ngày.
+
+Người tiêu dùng quét mã tham gia chương trình của WiNX tại siêu thị (Ảnh: Masan).
+
+WiNX nhanh chóng được nhận ra bởi dấu hiệu này xuất hiện ở đúng nơi người tiêu dùng thường xuyên lui tới, gắn liền với những sản phẩm quen thuộc trong bữa ăn và sinh hoạt hằng ngày, không chỉ trong dịp Tết. Đơ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:54.678306+00:00,0,2,0,0,"B?i n?i v? ch??ng tr?nh t?ch ?i?m h?ng ti?u d?ng t?i c?a h?ng t?p h?a, kh?ng ph?i ?u ??i T?t t? chu?i ?i?n m?y.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+41,q047,Doanh nghiệp nào ghi nhận mức doanh thu cao kỷ lục trong năm 2025?,article-02602,"Chuỗi cà phê Phúc Long lãi kỷ lục, mỗi ngày cửa hàng thu về bao nhiêu tiền?",tuoitre,https://tuoitre.vn/chuoi-ca-phe-phuc-long-lai-ky-luc-moi-ngay-cua-hang-thu-ve-bao-nhieu-tien-2026012818320958.htm,"Phúc Long trở thành một trong chuỗi trà - cà phê lớn hàng đầu, góp phần thúc đẩy đầu ra cho nông sản Việt - Ảnh: PLH
+
+Công ty cổ phần Tập đoàn Masan (mã chứng khoán MSN) vừa tổ chức sự kiện ""Community Day"" vào hôm nay 28-1, theo hình thức trực tuyến, nhằm chia sẻ kết quảkinh doanh, đồng thời trả lời các câu hỏi của cổ đông đặt ra.
+
+Tại chương trình, ông Danny Lê - Tổng giám đốc tập đoàn - công bố nhiều thông tin nổi bật về hoạt động kinh doanh, trong đó chuỗi trà -cà phêPhúc Long tiếp tục được chú ý.
+
+Theo đó, chỉ riêng quý cuối năm 2025, Phúc Long Heritage đạt doanh thu hơn 500 tỉ đồng, tăng hơn 24% so với cùng kỳ năm trước. Lợi nhuận trước lãi vay, thuế và khấu hao (EBITDA) đạt 100 tỉ đồng, tăng hơn 12%. Đây đều là mức cao nhất kể từ khi chuỗi này được Masan hợp nhất từ đầu năm 2022.
+
+Như vậy tính chung cả năm vừa qua, hệ thống ghi nhận doanh thu gần 1.900 tỉ đồng. Tuy thấp hơn kế hoạch đề ra nhưng vẫn tăng gần 17% so với năm trước, đồng thời xác lập mức kỷ lục.
+
+Trừ các chi phí, lợi",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:55.624357+00:00,3,2,3,3,B?i n?u doanh thu n?m 2025 v? c?c m?c k? l?c c?a Ph?c Long.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+42,q016,Ngân hàng nào điều chỉnh lãi suất tiền gửi hoặc lãi suất cho vay gần đây?,article-01637,"Lãi suất tiết kiệm tăng mạnh, lãi vay có sớm tăng theo?",dantri,https://dantri.com.vn/kinh-doanh/lai-suat-tiet-kiem-tang-manh-lai-vay-co-som-tang-theo-20260112080912424.htm,"Lãi suất tiết kiệm ngắn hạn neo cao, ngày càng nhiều ngân hàng chạm trần 4,75%/năm
+
+Theo thống kê của phóng viênDân trívề biểu lãi suất huy động trực tuyến đang được các ngân hàng công bố, mặt bằng lãi suất tiền gửi ngắn hạn tiếp tục duy trì ở mức cao.
+
+Cụ thể, có tới 29 ngân hàng áp dụng lãi suất từ 4%/năm trở lên đối với các khoản tiền gửi trực tuyến kỳ hạn từ 1 đến 5 tháng.
+
+Ở chiều ngược lại, chỉ còn một số ít ngân hàng niêm yết lãi suất dưới 4%/năm cho các kỳ hạn tiền gửi ngắn dưới 6 tháng, gồm SCB, Agribank, BIDV, Vietcombank,VietinBankvà KienlongBank.
+
+Theo quy định hiện hành của Ngân hàng Nhà nước, trần lãi suất huy động đối với kỳ hạn 1-5 tháng là 4,75%/năm. Nếu như khoảng 3 tháng trước, mức lãi suất này còn khá hiếm gặp thì đến nay đã được 9 ngân hàng áp dụng đồng loạt cho toàn bộ các kỳ hạn từ 1 đến 5 tháng, gồm BVBank, OCB, PGBank, VIB, PVCombank, Sacombank, TPBank, VCBNeo và VPBank.
+
+Bên cạnh đó, Nam A Bank cũng niêm yết lãi suất 4,75%/năm cho kỳ hạn 2 tháng, nâng tổng số ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:57.517017+00:00,3,2,2,3,B?i ?? c?p l?i su?t ti?n g?i t?ng v? kh? n?ng l?i su?t cho vay t?ng theo.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+43,q017,Tín dụng và hoạt động cho vay của các ngân hàng đang được nói đến ra sao?,article-01331,"Lãi huy động đẩy lên 9%/năm, lãi cho vay tại các ngân hàng ra sao?",dantri,https://dantri.com.vn/kinh-doanh/lai-huy-dong-day-len-9nam-lai-cho-vay-tai-cac-ngan-hang-ra-sao-20260120142855897.htm,"Trong khoảng hai tháng trở lại đây, mặt bằng lãi suất huy động tại phần lớn các ngân hàng có xu hướng tăng trở lại. Hiện mức lãi suất huy động bình quân ở kỳ hạn 6 tháng đã vượt ngưỡng 7%/năm, trong khi một số ngân hàng điều chỉnh lãi suất ở các kỳ hạn dài lên trên 8%, thậm chí tiệm cận 9%/năm.
+
+Diễn biến này kéo theo lãi suất cho vaymua nhàtăng đồng loạt, tạo áp lực lớn cho nhóm khách hàng vay với lãi suất thả nổi đã vay trước đó.
+
+Từ đầu tháng 1, khảo sát của phóng viên ghi nhận nhiều ngân hàng đã điều chỉnh mức lãi vay mua bất động sản, mức cố định theo đó tăng từ 0,5% tới 4% so với tháng 12/2025. Song song, các bên vẫn có nhiều ưu đãi hỗ trợ khách vay như kéo dài thời gian miễn trả gốc, hạn mức nâng lên đến 90-95% nhu cầu vốn, nhiều phương án vay linh hoạt cho người mua nhà lựa chọn….
+
+Ở nhóm BIG 4, Agribank vừa thông báo điều chỉnh lãi suất cho vay áp dụng đối với dư nợ các khoản cho vay người trẻ dưới 35 tuổi muanhà ở xã hộitrong giai đoạn từ ngày 1/1 đến hết ngày 30/6. Theo đó, ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:58.161426+00:00,2,2,3,3,B?i n?u l?i su?t huy ??ng v? t?nh h?nh l?i su?t cho vay t?i c?c ng?n h?ng.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+44,q048,Giá thực phẩm và hàng hóa phục vụ Tết biến động như thế nào?,article-01301,"Cục trưởng Cục Quản lý thị trường đi chợ, tự mua hàng kiểm tra giá",dantri,https://dantri.com.vn/kinh-doanh/cuc-truong-cuc-quan-ly-thi-truong-di-cho-tu-mua-hang-kiem-tra-gia-20260121233612672.htm,"Thông tin từ Cục Quản lý và Phát triển thị trường trong nước (Bộ Công Thương) cho biết ngày 21/1, đoàn công tác do Cục trưởng Trần Hữu Linh làm trưởng đoàn đã trực tiếp khảo sát, làm việc tại nhiều địa bàn, cơ sở sản xuất,kinh doanhtrọng điểm trên địa bàn TP Hà Nội.
+
+Hoạt động nhằm nắm bắt tình hình cung cầu, giá cả và chất lượng hàng hóa phục vụ nhu cầu tiêu dùng tăng cao của người dân dịp cậnTết Nguyên đánBính Ngọ 2026.
+
+Theo đó, đoàn công tác đã khảo sát hoạt động kinh doanh, việc niêm yết giá và nguồn gốc hàng hóa tại chợ Hà Đông (phường Nguyễn Trãi). Tại đây, Cục trưởng Trần Hữu Linh trực tiếp trao đổi với một số hộ kinh doanh về tình hình buôn bán cuối năm, đồng thời mua sản phẩm tại quầy kinh doanh nông sản khô.
+
+Cục trưởng Trần Hữu Linh trao đổi thông tin và trực tiếp mua sản phẩm tại quầy kinh doanh nông sản khô tại chợ Hà Đông (Ảnh: Dms).
+
+Ông Trịnh Quốc Ân, Phó trưởng Ban Quản lý chợ Hà Đông, cho biết hiện chợ có hơn 1.300 hộ kinh doanh cố định, hoạt động ổn định ở hầu hết c",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:35:58.700510+00:00,2,2,2,2,"B?i kh?o s?t gi? c?, ngu?n cung v? h?ng h?a d?p T?t, nh?ng ch? y?u m? t? ho?t ??ng ki?m tra ch? ch?a cho th?y di?n bi?n gi? theo th?i gian.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+45,q046,Tài xế hoặc người kinh doanh cá thể có thể đạt mức doanh thu bao nhiêu?,article-03063,Đại gia bán lẻ Masan mở thêm gần 500 cửa hàng WinMart+,nguoilaodong,https://nld.com.vn/dai-gia-ban-le-masan-mo-them-gan-500-cua-hang-winmart-196251027111750656.htm,"Mảng bán lẻ của Masan (WinCommerce) có kết quả kinh doanh ấn tượng nhất. Doanh thu III/2025 đạt 10.544 tỉ đồng, tăng 22,6% so với cùng kỳ, lợi nhuận sau thuế đạt 175 tỉ đồng, tăng 8,7 lần so với cùng kỳ.
+
+Lũy kế 9 tháng đầu năm, WinCommerce đạt doanh thu 28.459 tỉ đồng và lợi nhuận sau thuế 243 tỉ đồng.
+
+Từ đầu năm đến nay, doanh nghiệp này đã mở ròng 464 cửa hàng WinMart+, vượt mục tiêu ban đầu và hướng tới hoàn thành kịch bản tăng trưởng cao vào cuối năm. Hơn 80% cửa hàng mới đã đạt điểm hòa vốn. Masan dự kiến đạt khoảng 4.500 cửa hàng trên toàn quốc vào cuối năm.
+
+Khu vực nông thôn – nơi chiếm hơn 60% dân số Việt Nam – là động lực tăng trưởng chính. Gần 75% cửa hàng mở mới đến hết quý III/2025 thuộc mô hình WinMart+ tại nông thôn. Các cửa hàng tại đây ghi nhận tăng trưởng doanh số trên cùng hệ thống (LFL) đạt 17,4%.
+
+Tại miền Trung, mô hình siêu thị mini tăng trưởng 12,4% trong quý III/2025, nhờ danh mục sản phẩm phù hợp nhu cầu địa phương và lợi thế mở rộng sớm tại các vị trí đông ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:59.343824+00:00,0,2,0,0,"B?i n?i v? m? th?m c?a h?ng WinMart+, kh?ng ?? c?p doanh thu c?a t?i x? hay ng??i kinh doanh c? th?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+46,q049,Cổ phiếu ngân hàng hoặc chứng khoán tác động thế nào đến chỉ số VN-Index?,article-01948,"Cổ phiếu nhà bầu Hiển vượt bão, chứng khoán gặp kháng cự",dantri,https://dantri.com.vn/kinh-doanh/co-phieu-nha-bau-hien-vuot-bao-chung-khoan-gap-khang-cu-20250318164008526.htm,"Phiên giao dịchchứng khoánchiều 18/3, thị trường tiếp tục không chinh phục được mức kháng cự 1.340 điểm. Chốt phiên, VN-Index giảm 5,29 điểm về 1.330,97 điểm. Thanh khoản quanh 19.697 tỷ đồng.
+
+Nhóm VN30 giảm sâu hơn đà chung của thị trường, giảm hơn 6,2 điểm. Tuy nhiên, một sốcổ phiếutrong nhóm này vẫn duy trì được sắc xanh, như SHB, VPB, GAS, GVR, PLX, BVH, ACB.
+
+Nhóm cổ phiếu tăng điểm trong VN30 (Nguồn: BanggiaSSI).
+
+Trong đó, cổ phiếu SHB (Ngân hàng Sài Gòn - Hà Nội) tiếp tục ngược dòng thị trường, dẫn đầu với mức tăng 3,11%. Thanh khoản mã này duy trì gần 72 triệu cổ phiếu, nhà đầu tư nước ngoài mua hơn 11 triệu đơn vị.
+
+Tuy nhiên, ảnh hưởng mạnh nhất lên chỉ số VN-Index hôm nay lại phải kể tới LPB (LPBank). Mã này tăng hơn 2%, khớp lệnh hơn 5,1 triệu cổ phiếu.  Ngoài ra, một số cổ phiếu khác tác động tích cực như GMD, POW, ACB, VTP, VND.
+
+Cổ phiếu HSG của Tập đoàn Hoa Sen hôm nay giảm 2,92% về 18.300 đồng/đơn vị, thanh khoản đạt hơn 11,5 triệu cổ phiếu. Vùng giá này được ông Lê ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:35:59.895491+00:00,3,2,2,3,B?i cho bi?t SHB t?ng khi VN-Index gi?m v? n?u ?i?m s?/chuy?n ??ng c?a ch? s?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+47,q033,Vì sao giá ô tô nhập khẩu được mô tả là một nghịch lý?,article-03069,Nghịch lý giá ô tô nhập khẩu,nguoilaodong,https://nld.com.vn/nghich-ly-gia-o-to-nhap-khau-196250510204321019.htm,"Thị trường ô tô Việt Nam đang tồn tại một nghịch lý khó lý giải: Trong khi giá nhập khẩu xe từ các thị trường lớn như Indonesia, Thái Lan và Trung Quốc giảm mạnh thì giá bán lẻ tại Việt Nam gần như không thay đổi, thậm chí có mẫu còn tăng nhẹ.
+
+Giá bán trong nước vẫn đứng yên
+
+Theo số liệu từ Tổng cục Hải quan, trong 4 tháng đầu năm 2025, Việt Nam đã nhập khẩu 63.520 ô tô nguyên chiếc với tổng kim ngạch lên tới 1,4 tỉ USD. Trong đó, 3 thị trường chiếm phần lớn là Indonesia với hơn 24.000 xe (346 triệu USD), Thái Lan 22.000 xe (440 triệu USD) và Trung Quốc khoảng 12.000 xe (336 triệu USD). Ba thị trường này hiện chiếm hơn 90% tổng lượng xe nhập vào Việt Nam.
+
+Giá nhập khẩu trung bình các dòng xe phổ thông từ ASEAN hiện vào khoảng 14.000 USD/chiếc, tương đương 330 triệu đồng, giảm 4.000 - 5.000 USD so với các năm trước. Nhiều mẫu xe thậm chí có giá nhập chỉ khoảng 10.000 USD, tức khoảng 250 triệu đồng. Tuy nhiên, khi đến tay người tiêu dùng trong nước, những mẫu xe này thường có giá bán ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:00.508560+00:00,3,2,3,3,B?i c? n?i dung tr?c ti?p v? ngh?ch l? gi? ? t? nh?p kh?u.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+48,q033,Vì sao giá ô tô nhập khẩu được mô tả là một nghịch lý?,article-01668,Ô tô nhập về Việt Nam nhiều nhất từ trước đến nay,dantri,https://dantri.com.vn/kinh-doanh/o-to-nhap-ve-viet-nam-nhieu-nhat-tu-truoc-den-nay-20260111112424303.htm,"Theo số liệu thống kê sơ bộ từ Cục Hải quan (Bộ Tài chính), trong tháng 12/2025, các doanh nghiệp tại Việt Nam đã nhập khẩu tổng cộng 14.707ô tônguyên chiếc các loại với giá trị kim ngạch đạt gần 406 triệu USD.
+
+So với tháng liền trước, lượng ô tô nhập khẩu vào Việt Nam giảm hơn 3.600 xe, tương đương 19,9%, giá trị kim ngạch nhập khẩu theo đó cũng giảm 10,8%. Đây là một trong những tháng có lượng xe nhập khẩu về Việt Nam đạt mức thấp nhất trong năm 2025, đồng thời là tháng thứ 2 trong năm đạt mức dưới 15.000 xe.
+
+Giai đoạn cuối năm, cácdoanh nghiệpnhập khẩu và phân phối ô tô chủ động thu hẹp lượng xe đưa về nhằm cân đối cung - cầu, tránh áp lực tồn kho lớn khi chuyển sang năm 2026. Thực tế, những năm trước, hoạt động nhập khẩu ô tô cũng thường chững lại vào giai đoạn cuối năm với lý do tương tự.
+
+Cả năm 2025, tổng lượng ô tô nhập khẩu vào Việt Nam đạt 205.630 xe các loại với tổng giá trị gần 4,74 tỷ USD; tăng 32.069 xe, tương đương 18,6% về số lượng và tăng 31,1% về giá trị nhập khẩu s",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:01.104298+00:00,1,2,2,1,B?i n?u l??ng ? t? nh?p kh?u k? l?c nh?ng kh?ng gi?i th?ch ngh?ch l? v? gi?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+49,q014,Có cổ phiếu nào tăng trần trong lúc thị trường chứng khoán giảm điểm không?,article-01534,Cổ phiếu liên quan tỷ phú Trần Đình Long bùng nổ sau kỳ nghỉ lễ,dantri,https://dantri.com.vn/kinh-doanh/co-phieu-lien-quan-ty-phu-tran-dinh-long-bung-no-sau-ky-nghi-le-20250903152731777.htm,"Phiên giao dịch ngày 3/9, thị trườngchứng khoánchịu áp lực lớn từ nhóm cổ phiếu trụ cột. Một số cổ phiếu vốn hóa lớn như MWG, VIC, VCB, SSI giảm mạnh, gây lực cản tới chỉ số chung.
+
+Chốt phiên, VN30 giảm 5,79 điểm cùng nhiều mã giảm trên 2% như MWG, VIC, VCB, SSI. Trong đó, MWG (Đầu tư Thế Giới Di Động) giảm mạnh nhất với mức giảm 2,82%.
+
+Nhóm cổ phiếu ảnh hưởng mạnh tới chỉ số (Ảnh chụp màn hình).
+
+Ở chiều ngược lại,cổ phiếuHPG của Tập đoàn Hòa Phát bùng nổ với mức tăng 2,3%, khối lượng giao dịch trên 119 triệu đơn vị. Khối ngoại cũng tập trung bán ròng mã này với giá trị giao dịch lớn nhất, trên 948 tỷ đồng.
+
+Tài sản tỷ phú Trần Đình Long - Chủ tịch Hòa Phát - cũng tăng thêm 77 triệu USD, đạt 2,8 tỷ USD, theo cập nhật của Forbes.
+
+Cùng với đó, MBB (Ngân hàng Quân đội) tăng 2,5% giúp lấy lại đà giảm của chỉ số. Mã này được giao dịch hơn 1.315 tỷ đồng, đóng góp sức ảnh hưởng tích cực nhất đến chỉ số.
+
+Một số cổ phiếu bất động sản cũng có đà tăng tốt phiên hôm nay, ảnh hưởng mạnh tới ch",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:02.645738+00:00,1,2,0,1,"B?i cho bi?t HPG t?ng 2,3% khi th? tr??ng gi?m, nh?ng m?c t?ng kh?ng ph?i t?ng tr?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+50,q041,"Sau đợt giảm mạnh của Bitcoin, những kịch bản nào được dự báo cho năm 2026?",article-01755,Bitcoin năm 2025: Mộng triệu USD tan vỡ và bài học đau đớn cho giới đầu tư,dantri,https://dantri.com.vn/kinh-doanh/bitcoin-nam-2025-mong-trieu-usd-tan-vo-va-bai-hoc-dau-don-cho-gioi-dau-tu-20251211221832312.htm,"Thị trườngtài chínhchưa bao giờ thiếu những lời tiên tri, nhưng năm nay có lẽ sẽ là năm đi vào lịch sử như một ""nghĩa địa"" của các dự báo sai lệch nhất về bitcoin.
+
+Sau những đợt FOMO (sợ bỏ lỡ cơ hội) điên cuồng đẩy giá lên mức kỷ lục hơn 126.000 USD/BTC vào đầu tháng 10, thị trường tiền số lớn nhất hành tinh đã không thể giữ vững phong độ, quay đầu lao dốc và khiến hàng loạt kịch bản màu hồng của các ""cá mập"" phố Wall tan thành mây khói.
+
+Tại thời điểm các báo cáo tài chính cuối năm được công bố, bitcoin đang được giao dịch quanh vùng 92.000-93.000 USD (theo dữ liệu từ CoinGecko và Bloomberg). Mức giá này, dù vẫn cao so với quá khứ, nhưng lại là một sự hụt hẫng lớn so với những con số ""trên trời"" mà giới đầu tư từng được hứa hẹn.
+
+Bất chấp hàng loạt dự báo Bitcoin sẽ đạt 170.000 USD, 250.000 USD, 1 triệu USD hay thậm chí 2 triệu USD, thị trường năm 2025 lại đầy biến động (Ảnh: Cryotonews).
+
+Khi những lời tiên tri tiền số đổ vỡ trước thực tế
+
+Năm nay từng được tô vẽ là thời điểm các d",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:03.504656+00:00,2,2,1,1,"B?i m? t? bi?n ??ng Bitcoin n?m 2025 v? c?c d? b?o sai, kh?ng n?u k?ch b?n cho n?m 2026.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+51,q018,Có đề xuất nào yêu cầu hộ kinh doanh kê khai các tài khoản ngân hàng?,article-01597,Yêu cầu ngân hàng đáp ứng tốt nhu cầu thanh toán dịp cuối năm,dantri,https://dantri.com.vn/kinh-doanh/yeu-cau-ngan-hang-dap-ung-tot-nhu-cau-thanh-toan-dip-cuoi-nam-20251223192116429.htm,"Ngân hàng Nhà nước mới đây đã có công văn đề nghị các ngân hàng, chi nhánh ngân hàng đảm bảo hoạt động thanh toán diễn ra an toàn, thông suốt, đúng quy định, phục vụ tốt nhu cầu thanh toán trong thời gian quyết toán năm 2025 vàTết Nguyên đánnăm 2026.
+
+Các ngân hàng được yêu cầu thực hiện nghiêm các biện pháp quản lý rủi ro, phòng ngừa, ngăn chặn hành vi gian lận trong hoạt động thanh toán.
+
+Trong đó, các đơn vị phải tổ chức, triển khai nghiêm túc, chặt chẽ quy trình mở, sử dụng tài khoản thanh toán, thẻ ngân hàng, cung ứng dịch vụ thanh toán theo quy định pháp luật và các biện pháp đảm bảo an ninh, an toàn, bảo mật trong hoạt động thanh toán theo quy định.
+
+Song song đó, các đơn vị tăng cường các biện pháp quản lý, kiểm tra, giám sát các đơn vị chấp nhận thanh toán để kịp thời phát hiện, ngăn chặn các hành vi lợi dụng giao dịch thanh toán tại các đơn vị chấp nhận thanh toán cho các mục đích bất hợp pháp.
+
+Các tổ chức cung ứng dịch vụ trung gian thanh toán tổ chức, triển khai nghiêm túc",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:03.968667+00:00,0,2,0,0,"B?i v? b?o ??m thanh to?n d?p cu?i n?m, kh?ng n?i v? y?u c?u h? kinh doanh k? khai t?i kho?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+52,q029,"Các thương vụ mua bán, sáp nhập hoặc thâu tóm doanh nghiệp được đề cập ra sao?",article-01453,Nhật Bản “thâu tóm” thương hiệu Bút bi Thiên Long: Ai dẫn mối?,dantri,https://dantri.com.vn/kinh-doanh/nhat-ban-thau-tom-thuong-hieu-but-bi-thien-long-ai-dan-moi-20251223104233727.htm,"Đầu tháng 12, Tập đoàn Kokuyo (Nhật Bản) thông báo sẽ trở thành công ty mẹ của Tập đoàn Thiên Long (mã chứng khoán: TLG) thông qua việc mua lại tổng cộng 65,01% cổ phần.
+
+Để thực hiện thương vụ trên, Kokuyo dự kiến gián tiếp sở hữu 46,82% cổ phần Tập đoàn Thiên Long bằng việc mua 100% vốn của Công ty Thiên Long An Thịnh (TLAT), sau đó tiếp tục mua thêm 18,19% cổ phần thông qua chào mua công khai, tùy thuộc vào chấp thuận của cơ quan pháp lý.
+
+Ngày 22/12,Chứng khoánVPBank (VPBankS, mã chứng khoán: VPX) thông báo cho biết tham gia thương vụ với vai trò đồng tư vấn, hỗ trợ khách hàng và phối hợp cùng đơn vị đồng tư vấn trong quá trình thực hiện giao dịch.
+
+Theo lộ trình, giao dịch mua TLAT của Kokuyo dự kiến hoàn tất vào tháng 8/2026, trong khi đợt chào mua công khai diễn ra từ tháng 10 đến tháng 11/2026, tùy thuộc phê duyệt của cơ quan quản lý. Giá trị thương vụ ước tính khoảng 185 triệu USD.
+
+Nhật Bản “thâu tóm” thương hiệu Bút bi Thiên Long: Ai mai mối? (Ảnh: DT).
+
+Kokuyo cho biết việc",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:04.577056+00:00,3,2,3,3,B?i n?u th??ng v? Nh?t B?n th?u t?m th??ng hi?u B?t bi Thi?n Long v? b?n li?n quan.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+53,q039,DeepSeek tạo ra thay đổi gì trong cuộc cạnh tranh đầu tư trí tuệ nhân tạo?,article-01354,OpenAI hạ giá ChatGPT: Canh bạc sinh tồn giữa bão AI?,dantri,https://dantri.com.vn/kinh-doanh/openai-ha-gia-chatgpt-canh-bac-sinh-ton-giua-bao-ai-20250624001400392.htm,"Thế giới công nghệ lại một lần nữa chao đảo trước động thái táo bạo từ OpenAI, ""gã khổng lồ"" tiên phong trong lĩnh vực trí tuệ nhân tạo (AI). Theo các báo cáo mới nhất từ The Information, OpenAI đang âm thầm triển khai chính sách chiết khấu ""khủng"" cho phiên bảndoanh nghiệpcủa chatbot đình đám ChatGPT.
+
+Động thái này không chỉ làm nóng thêm cuộc đua AI vốn đã khốc liệt mà còn trực tiếp ""va chạm"" lợi ích với Microsoft - nhà đầu tư chiến lược và đối tác quan trọng nhất của OpenAI, làm dấy lên những câu hỏi lớn về tương lai của cả hai và cả ngành công nghiệp AI.
+
+Theo tiết lộ từ một phát ngôn viên của OpenAI và 2 lãnh đạo cấp cao tại các tập đoàn lớn, chính sách giảm giá của OpenAI không phải là một đợt xả hàng đơn thuần.
+
+Thay vào đó, nó được thiết kế như một ""gói ưu đãi có điều kiện"" đầy tính toán: Các doanh nghiệp sẽ được hưởng mức chiết khấu từ 10% đến 20% khi đồng ý ký kết hợp đồng sử dụng dịch vụ trong nhiều năm và quan trọng hơn, cam kết chi tiêu thêm cho các sản phẩm, dịch vụ khác",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:05.136936+00:00,0,2,1,2,"B?i n?i v? OpenAI gi?m gi? trong b?i c?nh c?nh tranh AI, li?n quan c?nh tranh nh?ng kh?ng n?u tr?c ti?p t?c ??ng c?a DeepSeek ??n ??u t?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+54,q038,Ai đang thành lập doanh nghiệp để sản xuất tàu vũ trụ?,article-01215,Sáng kiến lạ từ thân cây chuối khiến một công ty Đài Loan được săn lùng,dantri,https://dantri.com.vn/kinh-doanh/sang-kien-la-tu-than-cay-chuoi-khien-mot-cong-ty-dai-loan-duoc-san-lung-20251208213300987.htm,"Nhắc đến Đài Loan (Trung Quốc) ngày nay, thế giới thường nghĩ ngay đến những tấm wafer silicon và vị thế thống trị trong ngành công nghiệp bán dẫn toàn cầu. Tuy nhiên, ít ai biết rằng trước khi trở thành cường quốc công nghệ, hòn đảo này từng được mệnh danh là ""vương quốc chuối"" vào năm 1960. Khi ấy, màu vàng của chuối, chứ không phải màu đen của chip điện tử, mới là biểu tượng cho sự thịnh vượng xuất khẩu.
+
+Và giờ đây, trong một nỗ lực kết nối quá khứ vàng son với tương lai bền vững, Nelson Yang - một doanh nhân có tầm nhìn - đang thực hiện một cuộc cách mạng xanh tại vùng nông thôn Chương Hóa. Dự án mang tên Farm to Material (Từ nông trại đến vật liệu) của ông đang làm một việc tưởng chừng như điên rồ: Biến những thứ rác thải nông nghiệp vô giá trị thành tài nguyên đắt giá cho sàn catwalk.
+
+Câu chuyện bắt đầu từ một yêu cầu hóc búa của các thương hiệu giàythể thaochâu Âu vào năm 2008. Ông Yang chia sẻ với Reuters: ""Họ đặt vấn đề với chúng tôi về việc làm sao để vừa sản xuất lương thự",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:05.737449+00:00,0,2,0,0,"B?i n?i v? s?ng ki?n t? th?n c?y chu?i, kh?ng li?n quan s?n xu?t t?u v? tr?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+55,q024,Lạm phát và chi phí sinh hoạt được phản ánh trong các tin kinh tế nào?,article-01937,"GDP năm 2025 tăng 8,02%, thu nhập bình quân đầu người vượt 5.000 USD",dantri,https://dantri.com.vn/kinh-doanh/gdp-nam-2025-tang-802-thu-nhap-binh-quan-dau-nguoi-vuot-5000-usd-20260105162638836.htm,"Tại họp báo công bố số liệu thống kê kinh tế - xã hội quý IV và năm 2025 tổ chức chiều 5/1, Cục Thống kê (Bộ Tài chính) cho biết, tổng sản phẩm trong nước (GDP) quý IV/2025 ước tăng 8,46% so với cùng kỳ năm trước, đạt mức tăng cao nhất của quý IV các năm trong giai đoạn 2011-2025, duy trì xu hướng quý sau cao hơn quý trước (quý I tăng 7,05%, quý II tăng 8,16%, quý III tăng 8,25%).
+
+Trong đó, khu vực nông, lâm nghiệp và thủy sản tăng 3,70%, đóng góp 5,13% vào mức tăng tổng giá trị tăng thêm toàn nền kinh tế; khu vực công nghiệp và xây dựng tăng 9,73%, đóng góp 45,80%; khu vực dịch vụ tăng 8,82%, đóng góp 49,07%.
+
+Về sử dụng GDP quý IV/2025,tiêu dùngcuối cùng tăng 7,15% so với cùng kỳ năm trước; tích lũy tài sản tăng 8,92%; xuất khẩu hàng hóa và dịch vụ tăng 19,34%; nhập khẩu hàng hóa và dịch vụ tăng 19,4%.
+
+(Nguồn: Cục Thống kê).
+
+Tính chung cả năm 2025, GDP tăng trưởng khá với mức tăng ước đạt 8,02% so với năm trước, chỉ thấp hơn tốc độ tăng của năm 2022 trong giai đoạn 2011-2025. Tron",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:06.323664+00:00,0,2,2,2,"B?i c? s? li?u GDP, thu nh?p v? ch? s? kinh t? c? li?n quan ??n m?c s?ng/l?m ph?t, nh?ng kh?ng t?p trung ri?ng v?o chi ph? sinh ho?t.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+56,q021,Ngân hàng đang xử lý nợ xấu bằng cách rao bán những tài sản nào?,article-01097,"Ngân hàng Nhà nước chốt chỉ tiêu tín dụng 15%, lạm phát 4,5% năm 2026",dantri,https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-chot-chi-tieu-tin-dung-15-lam-phat-45-nam-2026-20260123185614600.htm,"Ngân hàng Nhà nước vừa ban hành Chỉ thị số 01 về tổ chức thực hiện các nhiệm vụ trọng tâm của ngành ngân hàng trong năm 2026.
+
+Đơn vị này cho biết sẽ điều hành chính sách tiền tệ chủ động, linh hoạt, phối hợp chặt chẽ với chính sách tài khóa và các chính sách vĩ mô khác. Cơ quan quản lý tiền tệ cũng ưu tiên mục tiêu kiểm soát lạm phát năm nay bình quân khoảng 4,5%, góp phần giữ vững ổn định kinh tế vĩ mô, hỗ trợ tăng trưởng kinh tế bền vững.
+
+Ngân hàng Nhà nước dự kiến tăng trưởng tín dụng toàn hệ thống khoảng 15%, có điều chỉnh tăng hoặc giảm phù hợp với diễn biến, tình hình thực tế. Ngoài ra, nhà quản lý tiền tệ sẽ triển khai đồng bộ các giải pháp quản lý ngoại tệ và dự trữ ngoại hối Nhà nước, góp phần ổn định thị trường và hỗ trợ điều hành chính sách tiền tệ.
+
+Chỉ thị cũng yêu cầu các đơn vị trong ngành triển khai đồng bộ các giải pháp kiểm soát và xử lý nợ xấu, nâng cao chất lượng tín dụng, duy trì tỷ lệ nợ xấu ở mức an toàn. Ngoài ra, các tổ chức tín dụng cũng cần tăng cường quản ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:12.167587+00:00,1,2,1,0,"B?i v? ch? ti?u t?n d?ng v? m?c ti?u l?m ph?t, kh?ng n?i ng?n h?ng rao b?n t?i s?n ?? x? l? n? x?u.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+57,q015,Các chuyên gia đánh giá thế nào về khả năng hồi phục của thị trường cổ phiếu?,article-01070,"Cổ phiếu liên quan đại gia Trương Gia Bình ""tái sinh""",dantri,https://dantri.com.vn/kinh-doanh/co-phieu-lien-quan-dai-gia-truong-gia-binh-tai-sinh-20260116154058786.htm,"Phiên giao dịchchứng khoánngày 16/1, cổ phiếu FPT của Tập đoàn FPT do ông Trương Gia Bình làm Chủ tịch công ty bất ngờ tăng trần lên 105.300 đồng/đơn vị. Đến cuối phiên, mã này dư mua giá trần hơn 4,3 triệu cổ phiếu, ""trắng"" bên bán. Tổng khối lượng giao dịch khớp lệnh trong phiên đạt hơn 23,8 triệu đơn vị, tăng đột biến so với các phiên trước đó.
+
+Trước ngày giao dịch thăng hoa này, thị trường ghi nhận giao dịch mua bất thành 2 triệucổ phiếuFPT của Công ty TNHH MTV Đầu tư SCIC. Lý do không hoàn tất giao dịch là biến động thị trường.
+
+Cổ phiếu VIC và FPT ảnh hưởng mạnh tới chỉ số (Ảnh chụp màn hình).
+
+Cùng với đà tăng của cổ phiếu công nghệ trên, mã VIC liên quan tới tỷ phú Phạm Nhật Vượng góp phần ảnh hưởng lớn nhất tới thị trường khi tăng 4,5% và đóng góp hơn 10,6 điểm cho chỉ số chung. Bộ 3 VIC - FPT và VHM tác động tích cực nhất đến chỉ số, dẫn dắt VN-Index đi lên.
+
+Đà tăng của thị trường nằm ở nhóm cổ phiếu mang tính đại diện nên dù chốt phiên, VN-Index tăng hơn 14 điểm nhưng vẫn ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:15.579616+00:00,0,2,0,1,"B?i n?i v? m?t c? phi?u h?i ph?c, ch? li?n quan gi?n ti?p ??n kh? n?ng h?i ph?c chung c?a th? tr??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+58,q012,Doanh nghiệp Việt Nam gặp thuận lợi hay khó khăn gì khi xuất khẩu hàng hóa?,article-01773,Các điều khoản chính của Hiệp định thương mại đối ứng giữa Việt Nam và Mỹ,dantri,https://dantri.com.vn/kinh-doanh/cac-dieu-khoan-chinh-cua-hiep-dinh-thuong-mai-doi-ung-giua-viet-nam-va-my-20251026184955653.htm,"Ngày 26/10, Việt Nam và Mỹ đã đồng ý công bố Tuyên bố chung về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng, điều này nhằm tăng cường quan hệ kinh tế song phương, qua đó tạo điều kiện tiếp cận thị trường sâu rộng cho hàng xuất khẩu của nhau.
+
+Bộ Công Thương cho biết Hiệp định Thương mại đối ứng, công bằng và cân bằng sẽ kế thừa và phát triển trên nền tảng quan hệ kinh tế lâu bền giữa 2 nước, bao gồm Hiệp định Thương mại song phương Mỹ - Việt Nam được ký kết năm 2000 và có hiệu lực từ năm 2001.
+
+Các điều khoản chính của Hiệp định thương mại đối ứng, công bằng và cân bằng giữa 2 nước sẽ bao gồm: Việt Nam sẽ dành quyền tiếp cận thị trường ưu đãi cho gần như toàn bộ hàng xuất khẩu nông nghiệp và công nghiệp của Mỹ.
+
+Trong khi đó, Mỹ sẽ duy trì mức thuế đối ứng 20% áp dụng từ tháng 4 đối với hàng hóa có xuất xứ từ Việt Nam; đồng thời sẽ xác định một số sản phẩm để được hưởng mức thuế đối ứng 0%.
+
+Mỹ và Việt Nam sẽ hợp tác trên tinh thần xây dựng nhằm nỗ lực giải quyết mối q",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:16.070569+00:00,1,2,2,2,"C?c ?i?u kho?n th??ng m?i v? thu? quan c? th? t?o thu?n l?i/kh? kh?n cho xu?t kh?u, nh?ng b?i kh?ng kh?o s?t r?ng doanh nghi?p Vi?t.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+59,q043,Chiến sự Trung Đông ảnh hưởng thế nào đến thị trường chứng khoán Việt Nam?,article-01352,"Sau nâng hạng, chứng khoán Việt Nam được các quỹ nghìn tỷ USD rất quan tâm",dantri,https://dantri.com.vn/kinh-doanh/sau-nang-hang-chung-khoan-viet-nam-duoc-cac-quy-nghin-ty-usd-rat-quan-tam-20251023152235485.htm,"Chia sẻ tạisự kiện""Tiền mới, hàng mới và Cơ hội trên thị trường mới nổi"" của Câu lạc bộ Nhà báo Chứng khoán Việt Nam, ông Bùi Hoàng Hải, Phó chủ tịch Ủy ban Chứng khoán Nhà nước (UBCKNN), nhấn mạnh rằng việc FTSE Russell nâng hạng thị trường chứng khoán Việt Nam lên nhóm mới nổi thứ cấp là một cột mốc quan trọng trong quá trình phát triển của thị trường chứng khoán Việt Nam 25 năm qua.
+
+""Từ trước tới nay, rất nhiều nhà đầu tư cả chủ động lẫn thụ động hầu như đều không quan tâm đến Việt Nam. Tuy nhiên, ngay trước và sau khi thị trườngchứng khoánViệt Nam được nâng hạng, họ lại đến Việt Nam, có nhiều trao đổi với UBCKNN. Thậm chí, rất nhiều nhà đầu tư đang quản lý vốn lớn hàng trăm đến hàng nghìn tỷ USD bày tỏ quan tâm thị trường chứng khoán Việt Nam"", ông Hải chia sẻ.
+
+Ông cho biết thêm rằng, BộTài chínhvà UBCKNN thời gian qua đã chuẩn bị nhiều giải pháp từ phía cung lẫn phía cầu để đảm bảo tận dụng được tất cả các lợi thế khi chúng ta được nâng hạng.
+
+Về phía cầu, ông Hải đề cập việc cơ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:16.521565+00:00,0,2,0,0,"B?i v? s? quan t?m c?a qu? qu?c t? sau n?ng h?ng, kh?ng ph?n t?ch ?nh h??ng chi?n s? Trung ??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+60,q017,Tín dụng và hoạt động cho vay của các ngân hàng đang được nói đến ra sao?,article-01878,Hơn 906.100 tỷ đồng tín dụng tại TPHCM và Đồng Nai đổ vào nhà đất,dantri,https://dantri.com.vn/kinh-doanh/hon-906100-ty-dong-tin-dung-tai-tphcm-va-dong-nai-do-vao-nha-dat-20251204180302371.htm,"Các thống kê cho thấy tổng dư nợ tín dụngtiêu dùngtrên địa bàn TPHCM và tỉnh Đồng Nai theo số liệu thực tế, đến tháng 9 đạt 1,5 triệu tỷ đồng, chiếm 27,1% trong tổng dư nợ tín dụng và tăng 8,65% so với cuối năm 2024.
+
+Trong đó, dư nợ tín dụng tiêu dùng trên địa bàn TPHCM chiếm chủ yếu, chiếm 92,8% tổng dư nợ tín dụng tiêu dùng; Đồng Nai chiếm 7,2% tổng dư nợ tín dụng tiêu dùng.
+
+Phân tích theo mục đích sử dụng vốn, tín dụng vay để mua, thuêmua nhàđể ở; xây dựng, sửa chữa nhà ở và chuyển quyền sử dụng đất để xây nhà ở vẫn chiếm tỷ trọng cao nhất trong tổng dư nợ tín dụng. Cụ thể, đến cuối tháng 9, tổng dư nợ tín dụng cho vay lĩnh vực này là 906.100 tỷ đồng, chiếm hơn 61% tổng dư nợ tín dụng tiêu dùng và tăng 7% so với cuối năm 2024.
+
+Số liệu cũng cho thấy sự tăng trưởng tốt của tín dụng tiêu dùng như mua đồ dùng, trang thiết bị gia đình và tiêu dùng, sinh hoạt trong cuộc sống hàng ngày của cá nhân, hộ gia đình. Cụ thể, dư nợ cho vay cho mảng này là 251.800 tỷ đồng, chiếm 17% trong tổng ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:16.717008+00:00,2,2,2,2,"B?i c? s? li?u d? n? v? t?n d?ng cho vay b?t ??ng s?n t?i c?c ng?n h?ng, ph? h?p ch? ?? t?n d?ng nh?ng kh?ng bao qu?t to?n b? ho?t ??ng cho vay.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+61,q040,Bitcoin và các tài sản số biến động ra sao đối với giới đầu tư?,article-01755,Bitcoin năm 2025: Mộng triệu USD tan vỡ và bài học đau đớn cho giới đầu tư,dantri,https://dantri.com.vn/kinh-doanh/bitcoin-nam-2025-mong-trieu-usd-tan-vo-va-bai-hoc-dau-don-cho-gioi-dau-tu-20251211221832312.htm,"Thị trườngtài chínhchưa bao giờ thiếu những lời tiên tri, nhưng năm nay có lẽ sẽ là năm đi vào lịch sử như một ""nghĩa địa"" của các dự báo sai lệch nhất về bitcoin.
+
+Sau những đợt FOMO (sợ bỏ lỡ cơ hội) điên cuồng đẩy giá lên mức kỷ lục hơn 126.000 USD/BTC vào đầu tháng 10, thị trường tiền số lớn nhất hành tinh đã không thể giữ vững phong độ, quay đầu lao dốc và khiến hàng loạt kịch bản màu hồng của các ""cá mập"" phố Wall tan thành mây khói.
+
+Tại thời điểm các báo cáo tài chính cuối năm được công bố, bitcoin đang được giao dịch quanh vùng 92.000-93.000 USD (theo dữ liệu từ CoinGecko và Bloomberg). Mức giá này, dù vẫn cao so với quá khứ, nhưng lại là một sự hụt hẫng lớn so với những con số ""trên trời"" mà giới đầu tư từng được hứa hẹn.
+
+Bất chấp hàng loạt dự báo Bitcoin sẽ đạt 170.000 USD, 250.000 USD, 1 triệu USD hay thậm chí 2 triệu USD, thị trường năm 2025 lại đầy biến động (Ảnh: Cryotonews).
+
+Khi những lời tiên tri tiền số đổ vỡ trước thực tế
+
+Năm nay từng được tô vẽ là thời điểm các d",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:17.083164+00:00,3,2,3,3,"B?i m? t? ??nh gi?, ??t gi?m v? c?c d? b?o Bitcoin c?ng ph?n ?ng c?a gi?i ??u t?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+62,q048,Giá thực phẩm và hàng hóa phục vụ Tết biến động như thế nào?,article-01621,"MM Mega Market Việt Nam tăng 30% hàng hóa phục vụ Tết, khuyến mãi kéo dài 40 ngày",dantri,https://dantri.com.vn/kinh-doanh/mm-mega-market-viet-nam-tang-30-hang-hoa-phuc-vu-tet-khuyen-mai-keo-dai-40-ngay-20260113110608456.htm,"Tăng cường dự trữ hàng Tết lên đến 30%
+
+MM Mega Market Việt Nam (MMVN) xây dựng chiến lược dự trữ hàng hóa Tết bài bản nhằm đảm bảo nguồn cung dồi dào và kịp thời trên toàn hệ thống. So với Tết năm 2025, tổng lượng hàng dự trữ năm nay tăng 10-30% tùy theo nhóm ngành hàng, trong đó nhóm nhu yếu phẩm, bánh kẹo và thực phẩm chế biến sẵn ghi nhận mức tăng cao do kỳ nghỉ Tết kéo dài. Nhóm đồ dùng gia đình tăng đáng kể, đặc biệt tại các kho khu vực miền Trung.
+
+Trong giai đoạn cao điểm Tết, MM Mega Market Việt Nam triển khai kế hoạch dự trữ quy mô lớn, với hàng khô và phi thực phẩm đạt khoảng 30.000 tấn, cùng nhóm thực phẩm tươi sống khoảng 2.800 tấn, nhằm đảm bảo nguồn cung ổn định, đáp ứng kịp thời nhu cầu mua sắm của khách hàng trong suốt mùa cao điểm.
+
+Với chiến lược dự trữ chủ động và linh hoạt, MMVN kỳ vọng mang đến trải nghiệm mua sắm Tết thuận tiện, an tâm và tiết kiệm cho khách hàng, đồng thời góp phần cân bằng cung - cầu và ổn định thị trường trong giai đoạn cuối năm.
+
+MMVN tăng tổ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:17.468333+00:00,1,2,1,1,"B?i n?u l??ng h?ng d? tr? v? khuy?n m?i T?t, kh?ng cung c?p bi?n ??ng gi? th?c ph?m/h?ng h?a.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+63,q021,Ngân hàng đang xử lý nợ xấu bằng cách rao bán những tài sản nào?,article-02175,Đến lúc phải thay đổi mô hình tăng trưởng,thanhnien,https://thanhnien.vn/den-luc-phai-thay-doi-mo-hinh-tang-truong-185428429.htm,"Bộ trưởng KH-ĐT Bùi Quang Vinh phát biểu tại nghị trường - Ảnh: Ngọc Thắng
+
+Nội dung thảo luận bao gồm tái cơ cấu (TCC) đầu tư công, khối doanh nghiệp nhà nước (DNNN) và hệ thống ngân hàng thương mại.
+
+Ám ảnh nợ xấu
+
+Một trong những vấn đề được thảo luận sâu trong ngày là TCC khối ngân hàng gắn với việc xử lý nợ xấu và tình trạng sở hữu chéo. Theo ĐB Nguyễn Quốc Bình (Hà Nội), nợ xấu là một vấn đề lớn, dù vừa qua Ngân hàng Nhà nước VN đã có một số giải pháp tốt, giải quyết được trên 52% tổng số nợ xấu mà chưa cần đến sự hỗ trợ từ ngân sách nhà nước. “Tuy nhiên, tôi cho rằng xử lý nợ xấu vẫn chưa đạt như mong muốn. Các khoản nợ mới có xu hướng tăng cao. Nếu không có cách thức giải quyết đồng bộ sẽ khó giải quyết nợ xấu như mong muốn”, ĐB Bình nhấn mạnh.
+
+Nhiều chuyên gia nước ngoài họ nói với tôi: Các ông đổi mới DNNN mà để nguyên lãnh đạo thì họ không thể tự chặt chân mình đâu.  Đấy là kinh nghiệm của Indonesia. Tự đổi mới mình khó lắm
+
+Bộ trưởng Bộ KH-ĐTBùi Quang Vinh
+
+ĐB Trần Du Lịch",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:22.040733+00:00,1,2,0,1,"B?i b?n v? n? x?u v? x? l? n?, nh?ng kh?ng n?u t?i s?n c? th? ???c ng?n h?ng rao b?n.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+64,q044,Ngân hàng nào dự định tuyển dụng trở lại sau đợt tinh giản hàng nghìn nhân viên?,article-01083,"Nghịch lý 2025: Kinh tế lên cao, nhưng việc làm rơi vào ""kỷ băng hà""",dantri,https://dantri.com.vn/kinh-doanh/nghich-ly-2025-kinh-te-len-cao-nhung-viec-lam-roi-vao-ky-bang-ha-20251226151720343.htm,"Theo lẽ thường của các chu kỳ kinh tế, khi báo cáo GDP khởi sắc, cácdoanh nghiệpsẽ ồ ạt tuyển dụng và thu nhập người dân sẽ tăng lên. Nhưng năm 2025 đã viết lại quy luật này bằng một kịch bản ngược đời.
+
+Khi tăng trưởng và việc làm đường ai nấy đi
+
+Nền kinh tế Mỹ vẫn vận hành với nhịp độ lành mạnh, dòng tiền vẫn luân chuyển mạnh mẽ, thậm chí GDP quý III còn tăng vọt lên mức 4,3% - con số ấn tượng nhất kể từ năm 2023.
+
+Thế nhưng, dòng tiền ấy không chảy vào túi người làm công ăn lương. Diane Swonk, chuyên gia kinh tế trưởng của KPMG đã phải thốt lên rằng tăng trưởng kinh tế và kết quả của thị trường lao động đã hoàn toàn tách rời nhau.
+
+GDP tăng tốc, lợi nhuận doanh nghiệp phá đỉnh, nhưng người lao động lại đối mặt với ""mùa đông"" khắc nghiệt nhất kể từ đại dịch (Ảnh: TechStory).
+
+Thay vì tuyển dụng, thị trường rơi vào trạng thái mà giới chuyên gia gọi là ""thời kỳ đại đóng băng"". Tỷ lệ thất nghiệp đã leo lên mức 4,6% vào tháng 11/2025, mức cao nhất kể từ năm 2021 nếu không tính giai đoạn",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:24.426193+00:00,0,2,1,1,"B?i n?i v? t?nh tr?ng vi?c l?m n?i chung, kh?ng n?u ng?n h?ng n?o tuy?n d?ng tr? l?i.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+65,q020,Những dự án bất động sản nào đang được đề xuất hoặc triển khai đầu tư?,article-01542,Quốc Cường Gia Lai chốt xong phương án trả nợ bà Trương Mỹ Lan,dantri,https://dantri.com.vn/kinh-doanh/quoc-cuong-gia-lai-chot-xong-phuong-an-tra-no-ba-truong-my-lan-20251218140529036.htm,"Công ty cổ phần Quốc Cường Gia Lai (mã chứng khoán: QCG) vừa hoàn tất lấy ý kiến cổ đông bằng văn bản về việc thu xếptài chínhtrả nợ cho bà Trương Mỹ Lan, nhằm thu hồi dự án Khu dân cư Bắc Phước Kiển (TPHCM).
+
+Với hơn 4.400 phiếu ý kiến được gửi đi, doanh nghiệp nhận về 32 phiếu, tương ứng gần 170 triệu cổ phần, chiếm hơn 61,7% tổng số cổ phần biểu quyết. Các cổ đông này nhất trí tán thành 2 phương án. Một là chuyển nhượng vốn góp tại các công ty con, công ty liên kết. Hai là hợp tác, đầu tư kinh doanh các sản phẩm,dự án bất động sảnvới các nhà đầu tư có năng lực.
+
+Cụ thể, công ty dự kiến chuyển nhượng vốn góp tại các công ty con và công ty liên kết. HĐQT cam kết giá trị chuyển nhượng sẽ không thấp hơn giá vốn đầu tư và sẽ thuê đơn vị thẩm định độc lập để xác định giá.
+
+Về hợp tác chiến lược, công ty dự kiến hợp tác, đầu tưkinh doanhcác sản phẩm, dự án bất động sản với các nhà đầu tư có năng lực và nhu cầu, bao gồm cả các nhà đầu tư là bên liên quan.
+
+Khu đất 39-39B Bến Vân Đồn trong v",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:26.040950+00:00,1,2,1,1,"B?i v? ph??ng ?n tr? n? c?a Qu?c C??ng Gia Lai, kh?ng x?c ??nh d? ?n b?t ??ng s?n ?ang ???c ?? xu?t ho?c tri?n khai ??u t?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+66,q030,Bộ Công Thương đề xuất giải pháp nào để tháo gỡ vướng mắc cho các dự án năng lượng?,article-01082,"Phó Thủ tướng: Đẩy nhanh triển khai các dự án điện, vận hành sớm 3-6 tháng",dantri,https://dantri.com.vn/kinh-doanh/pho-thu-tuong-day-nhanh-trien-khai-cac-du-an-dien-van-hanh-som-3-6-thang-20250915204134549.htm,"Văn phòng Chính phủ vừa có thông báo kết luận của Phó Thủ tướng Bùi Thanh Sơn tại hội nghị trực tuyến toàn quốc về rà soát tình hình triển khai quyết định về phê duyệt Điều chỉnh Quy hoạch điện 8 và giải pháp bảo đảm cung cấp điện trong thời gian tới.
+
+Thông báo kết luận nêu việc triển khai các nhiệm vụ đặt ra trong thực hiện điều chỉnh Quy hoạch điện 8 còn rất chậm so với tiến độ đề ra. Nếu không kịp thời triển khai quyết liệt thì sẽ ảnh hưởng đến an ninh năng lượng quốc gia, cũng như bảo đảm cung ứng đủ điện.
+
+Phó Thủ tướng yêu cầu đối với các dự án đã có chủ đầu tư khẩn trương đẩy nhanh tiến độ, hoàn thành theo yêu cầu của Thủ tướng. Xây dựng kế hoạch, đường găng tiến độ (công việc quan trọng nhất trong dự án - PV), gửi về UBND các tỉnh, thành để báo cáo Bộ Công Thương chủ trì kiểm tra, theo dõi.
+
+Bộ Công Thương và UBND các tỉnh, thành phố được giao đôn đốc chủ đầu tư cam kết tiến độ, đưa dự án điện vào vận hành sớm 3-6 tháng, xử lý nghiêm các trường hợp chậm triển khai. Địa phương ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:26.754186+00:00,1,2,2,2,"B?i n?u vi?c ??y nhanh c?c d? ?n ?i?n theo Quy ho?ch ?i?n 8, nh?ng kh?ng ph?i ?? xu?t c? th? c?a B? C?ng Th??ng v? g? v??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+67,q042,Tập đoàn bán dẫn lớn nào muốn mở rộng hoạt động tại Việt Nam?,article-01726,"Gia đình ""cá mập"" bí ẩn liên quan VIB, đứng sau quỹ khởi nghiệp VSV",dantri,https://dantri.com.vn/kinh-doanh/gia-dinh-ca-map-bi-an-lien-quan-vib-dung-sau-quy-khoi-nghiep-vsv-20231004084540760.htm,"Theo báo cáo hệ sinh thái đổi mới sáng tạo mở Việt Nam của BambuUp, tính đến năm 2022, hệ sinh tháikhởi nghiệpViệt Nam có khoảng 3.800 start up đang hoạt động. Hiện có khoảng 208 quỹ đầu tư mạo hiểm đang hoạt động và đầu tư cho các start up tại Việt Nam, trong đó có gần 40 quỹ đầu tư nội địa.
+
+VSV Capital là một trong những quỹ đầu tư nội địa có tên tuổi. Ít người biết, gia đình ông Hàn Ngọc Vũ - Tổng giám đốc Ngân hàng Thương mại cổ phần Quốc tế (mã chứng khoán: VIB) - đóng góp quan trọng cho sự phát triển của quỹ đầu tư khởi nghiệp này.
+
+Báo cáo quản trị 6 tháng đầu năm của VIB cho biết ông Vũ hiện là cổ đông lớn của Công ty TNHH Tư vấn đầu tư và dịch vụ phát triểnkinh doanhATV Việt Nam, Công ty cổ phần Vietnam Silicon Valley Accelerator, Công ty Delivery Technology Pte Ltd. Singapore, Quỹ đầu tư khởi nghiệp sáng tạo VSV Venture Capital Fund I, Quỹ VSV Accelarator IV.
+
+Thông tin về người liên quan của ông Hàn Ngọc Vũ trong báo cáo quản trị 6 tháng đầu năm của VIB (Nguồn: Báo cáo doan",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:27.307890+00:00,0,2,0,0,"B?i v? qu? kh?i nghi?p v? nh? ??u t?, kh?ng li?n quan t?p ?o?n b?n d?n m? r?ng t?i Vi?t Nam.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+68,q028,Những doanh nghiệp nào được nhắc đến trong kế hoạch phát triển ngành đường sắt quy mô lớn?,article-01002,Thaco của tỷ phú Trần Bá Dương đăng ký bổ sung kinh doanh mảng đường sắt,dantri,https://dantri.com.vn/kinh-doanh/thaco-cua-ty-phu-tran-ba-duong-dang-ky-bo-sung-kinh-doanh-mang-duong-sat-20260127210544464.htm,"Theo cập nhật mới nhất về đăng ký doanh nghiệp, Thaco vừa bổ sung một loạt ngành nghề liên quan đến hệ sinh thái đường sắt. Công ty này cũng đã thêm lĩnh vực sản xuất động cơ, tua bin với chi tiết là sản xuất động cơ đường sắt (mã 2811) và sản xuất đầu máy xe lửa, xe điện, toa xe và các thiết bị chuyên dùng trên đường ray (mã 3020).
+
+Doanh nghiệpđồng thời bổ sung ngành nghề mới là vận tải hành khách bằng đường sắt (mã 4911) và vận tải hàng hóa bằng đường sắt (mã 4912), cùng các hoạt động dịch vụ hỗ trợ khác.
+
+Động thái khác của doanh nghiệp này là tăng mạnh vốn và huy động mới hàng nghìn tỷ đồng. Cuối năm 2025, công ty phát hành thành công lô trái phiếu mã THC12501 với tổng giá trị huy động đạt 2.000 tỷ đồng.
+
+Nhà sáng lập Thaco, ông Trần Bá Dương (Ảnh: DT).
+
+Không chỉ phát hành trái phiếu, theo dữ liệu cập nhật từ Cổng thông tin quốc gia về đăng ký doanh nghiệp, ngày 24/12/2025, tập đoàn của tỷ phú Trần Bá Dương cũng vừa điều chỉnh giấy phép kinh doanh. Vốn điều lệ của tập đoàn tăng m",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:31.013790+00:00,2,2,3,2,"B?i cho bi?t Thaco ??ng k? th?m m?ng ???ng s?t, li?n quan doanh nghi?p trong l?nh v?c nh?ng kh?ng x?c nh?n tham gia d? ?n ???ng s?t t?c ?? cao.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+69,q012,Doanh nghiệp Việt Nam gặp thuận lợi hay khó khăn gì khi xuất khẩu hàng hóa?,article-01420,Hé lộ quốc gia chi hơn 1 tỷ USD nhập cà phê Việt Nam,dantri,https://dantri.com.vn/kinh-doanh/he-lo-quoc-gia-chi-hon-1-ty-usd-nhap-ca-phe-viet-nam-20251214143631018.htm,"Theo số liệu thống kê của Cục Hải quan, xuất khẩu cà phê của Việt Nam tháng 11 đạt 88.800 tấn, trị giá 507,6 triệu USD, tăng 41% về lượng và tăng 44,4% về trị giá so với tháng 11/2024.
+
+Lũy kế 11 tháng, xuất khẩu cà phê đạt 1,4 triệu tấn, trị giá 7,94 tỷ USD, tăng 60,9% về trị giá so với cùng kỳ năm 2024. Giá xuất khẩu cà phê trong 11 tháng đạt trung bình 5.661 USD/tấn, tăng 39,8% so với cùng kỳ năm 2024.
+
+Cục Xuất nhập khẩu (Bộ Công Thương) cho biết năm nay được đánh giá là một năm thành công của ngành cà phê Việt Nam, khi hoạt động xuất khẩu duy trì đà tăng trưởng tích cực, chủ yếu nhờ giá cà phê ở mức cao trong bối cảnh nguồn cung cà phê toàn cầu thắt chặt.
+
+Cùng với đó, nhu cầu nhập khẩu từ các thị trường chủ lực tiếp tục được duy trì ổn định, tạo nền tảng vững chắc cho hoạt động xuất khẩu. Việc từng bước cải thiện chất lượng sản phẩm cũng góp phần nâng cao giá trị xuất khẩu và vị thế của cà phê Việt Nam trên thị trường quốc tế. Với xu hướng này, cơ quan quản lý dự kiến xuất khẩu c",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:31.806585+00:00,2,2,2,2,"B?i v? qu?c gia nh?p kh?u c? ph? Vi?t Nam cho th?y th? tr??ng xu?t kh?u, nh?ng kh?ng n?u ??y ?? thu?n l?i v? kh? kh?n c?a doanh nghi?p.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+70,q049,Cổ phiếu ngân hàng hoặc chứng khoán tác động thế nào đến chỉ số VN-Index?,article-01445,"Cổ phiếu Thế Giới Di Động, VPBank tỏa sáng giữa áp lực từ FPT, SHB",dantri,https://dantri.com.vn/kinh-doanh/co-phieu-the-gioi-di-dong-vpbank-toa-sang-giua-ap-luc-tu-fpt-shb-20250923154450150.htm,"Thị trườngchứng khoánngày 23/9 có dấu hiệu hồi phục trở lại khi VN-Index tăng nhẹ từ đầu phiên và giữ được sắc xanh tới cuối ngày. Chốt phiên, chỉ số chính tăng 0,81 điểm, lên 1.635,26 điểm.
+
+Cáccổ phiếuMWG (Thế Giới Di Động), VPB (VPBank) tác động tích cực nhất đến đà tăng của thị trường. Trong đó, mã MWG lên 77.800 đồng/cổ phiếu, tăng 1,7% còn VPB tăng 1,36% lên 29.900 đồng/cổ phiếu.
+
+Cổ phiếu MWG đang ở vùng giá cao trong nửa năm qua, giữa bối cảnh tình hìnhkinh doanhcủa doanh nghiệp tích cực. Trong 8 tháng đầu năm nay, doanh nghiệp đạt doanh thu hơn 99.800 tỷ đồng, tăng 14% so với cùng kỳ năm trước và hoàn thành 67% kế hoạch năm. Tập đoàn cũng đang có kế hoạch chào bán cổ phiếu lần đầu ra công chúng (IPO) với công ty con trong mảng bán lẻ thiết bị điện thoại, điện máy.
+
+Nhóm cổ phiếu ảnh hưởng tích cực đến chỉ số (Ảnh chụp màn hình).
+
+Ở chiều ngược lại, các cổ phiếu FPT, SHB, GEX tác động tiêu cực đến chỉ số chung. Cụ thể, cổ phiếu FPT lấy đi 1,3 điểm của thị trường; SHB được giao ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:32.490013+00:00,3,2,2,3,"B?i m? t? c? phi?u MWG/VPBank v? ?p l?c l?n VN-Index, ph? h?p tr?c ti?p v?i c?u h?i v? t?c ??ng ??n ch? s?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+71,q026,Người có nhà cho thuê phải kê khai và nộp thuế như thế nào?,article-02143,Dọn về chung cư ở 14 năm vẫn chưa được cấp sổ hồng,thanhnien,https://thanhnien.vn/don-ve-chung-cu-o-14-nam-van-chua-duoc-cap-so-hong-185260128184111379.htm,"Theo ông Nguyễn Văn Đực, Phó giám đốc Công ty Đất Lành, chủ đầu dự án, chung cư Thái An 3 & 4 (phường Đông Hưng Thuận) ban đầu dự án được thiết kế 400 căn hộ, về sau được Bộ Xây dựng cho chẻ nhỏ số căn hộ trên thành 780 căn diện tích 30 - 40 m2. Dự án đã hoàn thành bàn giao cho khách hàng sử dụng ổn định từ năm 2012 cho đến nay chưa được cấpsổ hồng.
+
+Do tình hình kinh doanh bất động sản khó khăn nên đầu năm 2015 tài chính của công ty đã kiệt quệ, không còn khả năng mua các thửa đất thuộc diện tích quy hoạch khu nhà Thái An còn lại để mở rộng dự án theo quy hoạch. Kéo theo đó là trường mầm non không thể xây dựng để bàn giao cho địa phương.
+
+Đầu năm 2019, do nợ thuế VAT nên đã bị cơ quan thuế đóng mã số thuế và khóa tất cả các tài khoản cho đến nay. Hiện công ty không còn hoạt động kinh doanh bất kỳ sản phẩm nào, chỉ hỗ trợ khách hàng trong việc xác nhận để thực hiện các thủ tục hành chính có liên quan như nhập khẩu, tạm trú, về tài chính là không đồng.
+
+Sau 14 năm vào ở, khách hàng vẫn ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:33.132523+00:00,0,2,0,0,"B?i v? ch?m c?p s? h?ng c?n h?, kh?ng ?? c?p thu? t? ho?t ??ng cho thu? nh?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+72,q025,Ngưỡng doanh thu nào khiến hộ kinh doanh phải kê khai hoặc nộp thuế?,article-02830,Hộ kinh doanh có bị 'siết' quản lý tài khoản ngân hàng để tính thuế?,tienphong,https://tienphong.vn/ho-kinh-doanh-co-bi-siet-quan-ly-tai-khoan-ngan-hang-de-tinh-thue-post1816642.tpo,"Tách bạch dòng tiền kinh doanh, cá nhân
+
+Chuyển từ thuế khoán sang kê khai, vấn đề được nhiều hộ kinh doanh quan tâm hiện nay là việc cơ quan thuế đối chiếu dòng tiền, giám sát nghĩa vụ như thế nào. Trên các diễn đàn về thuế, loạt câu hỏi hộ kinh doanh về việc có cần thiết mở tài khoản riêng phục vụ mua bán, khai báo tài khoản ngân hàng. Nhiều lo ngại xuất hiện về những thông tin lan truyền qua mạng, quanh việc siết quản lý tài khoản để tính thuế.
+
+Theo quyết định số 3389/QĐ-BTC của Bộ Tài chính,hộ kinh doanhcó doanh thu từ 200 triệu đồng/năm phải mở tài khoản ngân hàng riêng phục vụ kinh doanh. Thời điểm quyết định ban hành là tháng 10/2025,áp dụng mô hình quản lý thuế trước thời điểm Luật Thuế thu nhập cá nhân sửa đổi, Luật Quản lý thuế sửa đổi được thông qua. Theo quy định tại luật mới, mức doanh thu không phải nộp thuế của hộ, cá nhân kinh doanh là từ 500 triệu đồng/năm.
+
+Hiện tại, hộ kinh doanh vẫn chờ hướng dẫn cụ thể, khingưỡng tính thuếđã điều chỉnh. Tại dự thảo Nghị định quy đ",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:33.853804+00:00,2,2,3,3,B?i n?u ng??ng doanh thu c?a h? kinh doanh v? quy ??nh li?n quan t?i kho?n/ngh?a v? thu?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+73,q042,Tập đoàn bán dẫn lớn nào muốn mở rộng hoạt động tại Việt Nam?,article-01474,Khởi công nhà máy chế tạo chip đầu tiên của Việt Nam,dantri,https://dantri.com.vn/kinh-doanh/khoi-cong-nha-may-che-tao-chip-dau-tien-cua-viet-nam-20260116110532903.htm,"Sáng 16/1, Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) tổ chức lễ khởi công dự án nhà máy chế tạo chip bán dẫn tại Khu Công nghệ cao Hòa Lạc. Tổng Bí thư Tô Lâm,Thủ tướng Phạm Minh Chínhvà các đồng chí lãnh đạo Đảng, Nhà nước dự sự kiện.
+
+Nhà máy được xây dựng trên khuôn viên 27ha với định hướng trở thành hạ tầng quốc gia phục vụ nghiên cứu, thiết kế, thử nghiệm và sản xuất chip bán dẫn. Khi đi vào hoạt động, nhà máy có thể đáp ứng cho các ngành công nghiệp quốc gia như: Hàng không vũ trụ, viễn thông, Internet vạn vật (IoT), sản xuất ô tô, thiết bị y tế, tự động hóa...
+
+Theo Viettel, một sản phẩm chip bán dẫn hoàn chỉnh phải trải qua sáu công đoạn chính gồm: Định nghĩa sản phẩm, thiết kế hệ thống, thiết kế chi tiết, chế tạo chip, đóng gói - đo kiểm và tích hợp - thử nghiệm.
+
+Thời gian qua, Việt Nam đã từng bước tham gia vào năm công đoạn; riêng công đoạn chế tạo chip - khâu phức tạp và then chốt nhất - hiện chưa thể thực hiện trong nước. Việc xây dựng nhà máy chế tạo chip bán ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:35.252978+00:00,1,2,2,2,"B?i v? nh? m?y ch? t?o chip ??u ti?n c?a Vi?t Nam, c? li?n quan m? r?ng ng?nh b?n d?n nh?ng kh?ng kh?p r? c?u h?i v? t?p ?o?n l?n mu?n m? r?ng ho?t ??ng.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+74,q019,Vì sao cư dân một khu chung cư chờ giấy chứng nhận quyền sở hữu suốt nhiều năm?,article-02827,"Di dời hơn 860.000 dân Hà Nội: Bài học, kinh nghiệm từ Bắc Kinh, Seoul, Tokyo",tienphong,https://tienphong.vn/di-doi-hon-860000-dan-ha-noi-bai-hoc-kinh-nghiem-tu-bac-kinh-seoul-tokyo-post1816647.tpo,"HĐND TP. Hà Nộivừa thông qua Nghị quyết về các nội dung chính của Quy hoạch tổng thể Thủ đô với tầm nhìn 100 năm, trong đó điểm nhấn là kế hoạch di dời hơn 860.000 người dân trong khu vực vành đai 3 trở vào, trong đó ưu tiên thực hiện đối với khu vực trong vành đai 1, vành đai 2 để tái cấu trúc không gian đô thị, giảm áp lực hạ tầng, dân số và môi trường cho khu vực lõi.
+
+Quyết sách này đặt Hà Nội trước một bài toán tương tự với các siêu đô thị châu Á: Làm thế nào để “giãn dân” mà không làm đứt gãy sinh kế, làm thế nào để tái cấu trúc đô thị mà không tạo ra những vùng ven nghèo mới. Trên hành trình đó, Bắc Kinh với chiến lược phát triểnTân khu Hùng Antại tỉnh Hà Bắc, cùng kinh nghiệm tái phát triển của Seoul và Tokyo, đang cung cấp những bài học đáng giá.
+
+Bắc Kinh và chiến lược “tách chức năng khỏi đô thị lõi”
+
+TheoXinhua, khác với nhiều thành phố chỉ cải tạo trong nội đô, Bắc Kinh lựa chọn chiến lược tái cấu trúc ở quy mô vùng đô thị. Trọng tâm của chiến lược này là việc hình thành T",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:40.379127+00:00,0,2,0,0,"B?i v? di d?i d?n ? c?c ?? th?, kh?ng gi?i th?ch vi?c c? d?n m?t chung c? ch? gi?y ch?ng nh?n quy?n s? h?u.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+75,q011,Mức thuế nhập khẩu do Mỹ áp đặt khiến các nước xích lại gần nhau hơn như thế nào?,article-01625,"Thái Lan áp thuế hàng giá rẻ nhập khẩu, bảo vệ doanh nghiệp nội",dantri,https://dantri.com.vn/kinh-doanh/thai-lan-ap-thue-hang-gia-re-nhap-khau-bao-ve-doanh-nghiep-noi-20251116105935647.htm,"Theo Reuters, Bộ trưởng Tài chính Thái Lan Ekniti Nithanprapas cho biết nước này sẽ bắt đầu thu 10% thuế hải quan đối với hàng nhập khẩu giá rẻ từ năm 2026, thay vì miễn thuế, nhằm bảo vệ cácdoanh nghiệpvừa và nhỏ trong nước.
+
+Hiện tại ở Thái Lan, hàng nhập khẩu có giá trị 1.500 baht (1,21 triệu đồng) trở xuống được miễn thuế, trong khi các sản phẩm có giá trị cao hơn chịu mức thuế khác nhau tùy loại.
+
+Biện pháp mới có hiệu lực từ 1/1/2026 sẽ giúp ngành sản xuất Thái Lan và được kỳ vọng sẽ phối hợp với các nền tảng thương mại trực tuyến để hỗ trợ thu thuế.
+
+Ông Ekniti Nithanprapas cho biết thuế hải quan sẽ được sử dụng để bảo vệ các doanh nghiệp vừa và nhỏ khỏi tình trạng hàng hóa nhập khẩu giá rẻ tràn vào nước này sau cuộc chiến thương mại toàn cầu.
+
+Thái Lan tìm cách ngăn chặn hàng giá rẻ nhập khẩu, bảo vệ sản xuất trong nước (Ảnh: Reuters).
+
+Theo công ty luật Tilleke & Gibbins, biện pháp này sẽ ảnh hưởng tới thương mại điện tử, logistics và bán lẻ, đồng thời tăng gánh nặng cho các h",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:42.175677+00:00,0,2,1,1,"B?i n?i v? thu? h?ng nh?p kh?u gi? r? c?a Th?i Lan; ch? li?n quan gi?n ti?p, kh?ng m? t? t?c ??ng thu? M? khi?n c?c n??c x?ch l?i.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+76,q014,Có cổ phiếu nào tăng trần trong lúc thị trường chứng khoán giảm điểm không?,article-01525,Cổ phiếu Vinamilk tăng kịch trần dù cổ đông Nhà nước chưa thể thoái vốn,dantri,https://dantri.com.vn/kinh-doanh/co-phieu-vinamilk-tang-kich-tran-du-co-dong-nha-nuoc-chua-the-thoai-von-20260114154733844.htm,"Cổ phiếuVNM của Công ty cổ phần Sữa Việt Nam (Vinamilk) tăng trần trong phiên giao dịch hôm nay (14/1), lên 67.700 đồng/đơn vị. Đến cuối phiên, mã này dư mua giá trần hơn 1,2 triệu cổ phiếu. Thanh khoản cũng gia tăng mạnh mẽ, đạt hơn 24,8 triệu đơn vị, gấp vài lần so với các phiên giao dịch trước đó.
+
+Cổ phiếu của hãng sữa quốc dân tăng mạnh trong bối cảnh cổ đông Nhà nước - Công ty TNHH MTV Đầu tư SCIC (SIC) thoái vốn bất thành. Theo đó, SIC muốn bán toàn bộ 1,45 triệu cổ phiếu VNM từ ngày 10/12/2025 đến ngày 8/1/2026. Tuy nhiên, cổ đông này đã không bán được cổ phiếu nào do biến động thị trường.
+
+Cổ phiếu Vinamilk tăng trần (Ảnh minh họa: VNM).
+
+Cùng với VNM, một số mã khác trong nhóm cổ phiếu vốn hóa lớn VN30 cũng tăng trần, như BCM, PLX, GVR, BID và đặc biệt là SAB. Cổ phiếu hãng bia Sabeco dư mua giá trần hơn 1,2 triệu đơn vị và biến động lớn về mặt thanh khoản.
+
+Quay trở lại diễn biến chung, thị trườngchứng khoánngày 14/1 sớm điều chỉnh từ đầu phiên, sau khi vượt mốc 1.900 điểm v",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:43.608706+00:00,3,2,2,2,"B?i ghi nh?n c? phi?u Vinamilk t?ng tr?n, nh?ng ph?n ti?u ?? kh?ng x?c nh?n th? tr??ng chung ?ang gi?m ?i?m.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+77,q040,Bitcoin và các tài sản số biến động ra sao đối với giới đầu tư?,article-01732,"Bitcoin thủng mốc then chốt, nỗi lo mùa đông tiền số quay lại",dantri,https://dantri.com.vn/kinh-doanh/bitcoin-thung-moc-then-chot-noi-lo-mua-dong-tien-so-quay-lai-20251216092924796.htm,"Cập nhật sáng nay (13/12) cho thấy thị trường tiền mã hóa chứng kiến nhịp điều chỉnh đáng lo ngại. Bitcoin đã chính thức đánh mất mốc hỗ trợ tâm lý quan trọng, có thời điểm trượt xuống vùng 85.171 USD - mức thấp nhất trong 2 tuần qua.
+
+So với đỉnh lịch sử 126.000 USD thiết lập hồi tháng 10, đồng tiền số lớn nhất hành tinh đã ""bốc hơi"" khoảng 30% giá trị. Đáng chú ý, diễn biến tiêu cực này đi ngược hoàn toàn với sự hưng phấn của thị trườngchứng khoántruyền thống, khi chỉ số S&P 500 vẫn duy trì đà tăng trưởng gần 16% trong năm nay.
+
+Lần đầu tiên kể từ năm 2014, bitcoin cho thấy sự tách nhịp rõ rệt và tụt hậu so với cổ phiếu, khiến giới đầu tư đặt dấu hỏi lớn về vị thế ""tài sản trú ẩn"" của nó.
+
+Sắc đỏ cũng lan rộng sang các tài sản số khác. Ether (ETH) thủng mốc 3.000 USD, trong khi dogecoin và XRP đều giảm khoảng 5%.
+
+Bitcoin nối dài đà giảm trong năm 2025 trong khi bạc, vàng và đồng tăng mạnh (Ảnh: Yahoo).
+
+Giải mã đà lao dốc: Khi niềm tin chạm đáy
+
+Tại sao bitcoin lại ""gục ngã"" ngay tr",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:45.409549+00:00,3,2,3,3,B?i m? t? Bitcoin th?ng ng??ng gi? v? lo ng?i c?a nh? ??u t? v? th? tr??ng ti?n s?.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+78,q024,Lạm phát và chi phí sinh hoạt được phản ánh trong các tin kinh tế nào?,article-01236,"Kiếm tỷ USD từ đồ cũ: Nghịch lý kinh tế và ""bãi rác"" thời trang ở Pakistan",dantri,https://dantri.com.vn/kinh-doanh/kiem-ty-usd-tu-do-cu-nghich-ly-kinh-te-va-bai-rac-thoi-trang-o-pakistan-20251124225534359.htm,"Tại các khu chế xuất ở Karachi (Pakistan), không khí luôn đặc quánh mùi bụi vải và sự hối hả của dòng tiền. Hàng ngày, từng đoàn xe tải nối đuôi nhau chở những kiện hàng khổng lồ đổ về các nhà máy như Silver Denim. Bên trong đó là hàng tấn quần áo đã qua sử dụng, những món đồ ""lỗi mốt"" được thải loại từ châu Âu (EU), Anh hay Mỹ, bắt đầu một hành trình kinh tế mới tại quốc gia Nam Á này.
+
+Pakistan đang chứng kiến một nghịch lý kinh tế điển hình trong kỷ nguyêntiêu dùngnhanh: Sự bùng nổ của thị trường đồ cũ mang lại lợi nhuận tỷ đô, nhưng đồng thời đẩy quốc gia này đến bờ vực của một cuộc khủng hoảng môi trường nghiêm trọng.
+
+Mỏ vàng từ ""rác"" thời trang phương Tây
+
+Trong bối cảnh kinh tế toàn cầu biến động, lạm phát phi mã và đói nghèo gia tăng đã vô tình tạo ra một đòn bẩy tăng trưởng khủng khiếp cho ngành hàng secondhand (đồ đã qua sử dụng) tại Pakistan.
+
+Số liệu từ Hội đồngDoanh nghiệpPakistan vẽ nên một bức tranh tài chính đầy sôi động: Chỉ tính từ tháng 7/2023 đến tháng 6/2024, quốc",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:47.458094+00:00,1,2,2,2,"B?i m? t? mua b?n ?? c?, thu nh?p v? h? qu? kinh t? ??i v?i ng??i d?n Pakistan, li?n quan chi ph? sinh ho?t nh?ng kh?c b?i c?nh Vi?t Nam.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+79,q013,Vì sao VN-Index tăng mạnh trong một phiên và nhóm ngành nào dẫn dắt?,article-01646,"Cổ phiếu liên tiếp tăng ngoạn mục, tài sản tỷ phú Vượng đạt kỷ lục mới",dantri,https://dantri.com.vn/kinh-doanh/co-phieu-lien-tiep-tang-ngoan-muc-tai-san-ty-phu-vuong-dat-ky-luc-moi-20250717150939078.htm,"Kết phiên giao dịch ngày 17/7, VN-Index tăng 14,54 điểm, tương đương 0,99%, vượt mốc 1.490 điểm. Chỉ số VN30-Index cũng bật tăng hơn 20 điểm; HNX-Index tăng 3,74 điểm; UPCoM-Index nhích thêm 1,22 điểm.
+
+Mã VHM (Vinhomes) dẫn đầu nhóm cổ phiếu ảnh hưởng tích cực tới chỉ số. Bên cạnh đó, 2 cổ phiếu ""họ""Vingrouplà VIC (Vingroup) và VRE (Vincom Retail) cũng góp mặt trong nhóm này.
+
+Đà tăng ấn tượng của cáccổ phiếuđã góp phần đẩy giá trị tài sản của tỷ phú Phạm Nhật Vượng lên mốc kỷ lục. Theo số liệu từ Forbes, tính đến chiều ngày 17/7, khối tài sản của ông đã tăng thêm 920 triệu USD, đạt mức cao kỷ lục 12,7 tỷ USD, qua đó vươn lên vị trí thứ 205 trong bảng xếp hạng những người giàu nhất thế giới.
+
+Tài sản của tỷ phú Phạm Nhật Vượng tăng mạnh lên mức kỷ lục 10,3 tỷ USD (Ảnh: Forbes).
+
+Đáng chú ý, cổ phiếu VIC hiện được giao dịch quanh mức 122.000 đồng/đơn vị, tăng hơn 3 lần so với đầu năm và tiến gần đỉnh lịch sử.
+
+Đà tăng mạnh của cổ phiếu này cũng giúp tài sản của Chủ tịch Vingroup Phạm N",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:49.557380+00:00,2,2,2,2,"B?i n?u c? phi?u Vingroup t?ng v? t?i s?n t? ph? V??ng l?p k? l?c, li?n quan m?t ph?n ??n ??ng l?c th? tr??ng nh?ng kh?ng ph?n t?ch ??y ?? nh?m d?n d?t VN-Index.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+80,q034,VinFast đang hợp tác hoặc mở rộng hoạt động kinh doanh ở thị trường nào?,article-01100,Toàn cảnh Kinh tế tư nhân năm 2025: Chi tiết cấu trúc chương trình,dantri,https://dantri.com.vn/kinh-doanh/toan-canh-kinh-te-tu-nhan-nam-2025-chi-tiet-cau-truc-chuong-trinh-20250912144307275.htm,"Ngày 11/9, Ban Nghiên cứu Phát triển kinh tế tư nhân (Ban IV) tổ chức lễ công bố mô hình Toàn cảnh Kinh tế tư nhân Việt Nam 2025 (ViPEL 2025) và ra mắt Hội đồng điều hành cùng nhân sự chủ chốt các ủy ban.
+
+Phát biểu tại sự kiện, ông Trương Gia Bình, Trưởng Ban IV, nhấn mạnh mô hình Toàn cảnh Kinh tế tư nhân Việt Nam hướng đến mục tiêu “Công - tư kiến quốc: Hùng cường, thịnh vượng”. Theo ông, điểm khác biệt của mô hình này so với nhiều chương trình khác nằm ở quy mô tập hợp lực lượngdoanh nghiệptư nhân lớn nhất, có tổ chức bài bản và mang tầm vóc chiến lược.
+
+Mô hình sẽ hoạt động xuyên suốt, kéo dài qua các năm, không mang tính lợi ích nhóm mà vì trách nhiệm thiết kế, thực thi các giải pháp tổng thể vì sự phát triển của nền kinh tế và của từng ngành, từng lĩnh vực.
+
+Trong hoạt động thường xuyên, mô hình tổ chức các buổi giao ban định kỳ theo quý hoặc 6 tháng, theo từng Nhóm công tác hoặc Ủy ban, nhằm cập nhật tình hình vĩ mô và những biến động trong các lĩnh vực.
+
+Trọng tâm của hoạt độn",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:50.984097+00:00,0,2,0,0,"B?i v? ch??ng tr?nh kinh t? t? nh?n, kh?ng n?i VinFast h?p t?c hay m? r?ng ? th? tr??ng n?o.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+81,q013,Vì sao VN-Index tăng mạnh trong một phiên và nhóm ngành nào dẫn dắt?,article-01486,"VN-Index ""quay xe"" ngoạn mục, kết phiên xanh ngát",dantri,https://dantri.com.vn/kinh-doanh/vn-index-quay-xe-ngoan-muc-ket-phien-xanh-ngat-20250911155816738.htm,"Trong phiên giao dịch buổi sáng 11/9, ngay từ những phút mở cửa, áp lực bán đã kéo VN-Index nhanh chóng rơi xuống dưới tham chiếu. VN-Index giảm mạnh, có thời điểm giảm 36 điểm so với tham chiếu, sắc đỏ bao trùm các nhóm ngành.
+
+Tới gần cuối phiên sáng, VN-Index mới thu hẹp bớt phần nào mức thiệt hại. Tuy vậy, thị trường vẫn đóng cửa phiên sáng trong trạng thái tiêu cực khi VN-Index giảm 13,79 điểm xuống 1.629,47 điểm; HNX-Index giảm 4,47 điểm xuống 270,13 điểm.
+
+Sang tới phiên chiều, thị trường đảo chiều tích cực khi nhómcổ phiếutrụ kéo VN-Index vượt tham chiếu và tăng mạnh.
+
+Kết phiên, VN-Index tăng 14,49 điểm, tương đương 0,88%, lên mốc 1.657,75 điểm. Chỉ số VN30-Index tăng mạnh 26,45 điểm; HNX-Index lùi 0,42 điểm; UPCoM-Index giảm 5,99 điểm.
+
+VN-Index biến động mạnh trong phiên giao dịch 11/9 (Ảnh chụp màn hình).
+
+Trên toàn thị trường, tổng giá trị giao dịch khớp lệnh đạt hơn 36.600 tỷ đồng. Bảng điện phân hóa mạnh với 163 mã tăng, trong đó có 12 mã tăng trần; 63 mã giữ giá tham ch",2,,reviewed_agreement,Tài Thân Yêu,2026-11-12T15:36:53.681539+00:00,2,2,1,3,"B?i m? t? VN-Index ??o chi?u t?ng v? c?c di?n bi?n c? phi?u trong phi?n, tr? l?i tr?c ti?p c?u h?i.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+82,q039,DeepSeek tạo ra thay đổi gì trong cuộc cạnh tranh đầu tư trí tuệ nhân tạo?,article-01226,Chiến tranh lạnh AI: Chạy đua viết lại luật chơi toàn cầu,dantri,https://dantri.com.vn/kinh-doanh/chien-tranh-lanh-ai-chay-dua-viet-lai-luat-choi-toan-cau-20250908110847999.htm,"""Thật sự tôi hơi sợ"".
+
+Đó là lời thú nhận của Sam Altman, CEO của OpenAI và là một trong những kiến trúc sư trưởng của cuộc cách mạng AI toàn cầu, khi ông nói về tiềm năng của công nghệ do chính mình tạo ra. Ông ví sự ra đời của thế hệ AI mới như Dự án Manhattan, dự án chế tạo bom nguyên tử, và cảnh báo về một “vụ nổ hạt nhân năng lực” sắp xảy ra.
+
+Nỗi sợ của Altman không chỉ là sự hoang tưởng về một tương lai máy móc thống trị. Nó phản ánh một thực tại trần trụi hơn đang diễn ra ngay trong phòng họp của các tập đoàn, các trung tâm dữ liệu và các hành lang chính phủ: một cuộc chiến tranh lạnh mới, không được tuyên bố bằng văn bản nhưng được định hình bởi thuật toán, chip bán dẫn và dòng chảy dữ liệu.
+
+Trong khi dư luận toàn cầu còn mải mê với những xung đột địa chính trị truyền thống, một cuộc đối đầu còn hệ trọng hơn đang âm thầm tái định hình trật tự kinh tế thế giới. Đây không phải là cuộc chiến của súng đạn, mà là cuộc đua giành quyền kiểm soát công nghệ định hình tương lai nhân lo",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:55.371098+00:00,1,2,1,1,B?i b?n r?ng v? c?nh tranh AI to?n c?u nh?ng kh?ng n?u c? th? DeepSeek hay thay ??i ??u t? do DeepSeek.,"AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"
+83,q046,Tài xế hoặc người kinh doanh cá thể có thể đạt mức doanh thu bao nhiêu?,article-02830,Hộ kinh doanh có bị 'siết' quản lý tài khoản ngân hàng để tính thuế?,tienphong,https://tienphong.vn/ho-kinh-doanh-co-bi-siet-quan-ly-tai-khoan-ngan-hang-de-tinh-thue-post1816642.tpo,"Tách bạch dòng tiền kinh doanh, cá nhân
+
+Chuyển từ thuế khoán sang kê khai, vấn đề được nhiều hộ kinh doanh quan tâm hiện nay là việc cơ quan thuế đối chiếu dòng tiền, giám sát nghĩa vụ như thế nào. Trên các diễn đàn về thuế, loạt câu hỏi hộ kinh doanh về việc có cần thiết mở tài khoản riêng phục vụ mua bán, khai báo tài khoản ngân hàng. Nhiều lo ngại xuất hiện về những thông tin lan truyền qua mạng, quanh việc siết quản lý tài khoản để tính thuế.
+
+Theo quyết định số 3389/QĐ-BTC của Bộ Tài chính,hộ kinh doanhcó doanh thu từ 200 triệu đồng/năm phải mở tài khoản ngân hàng riêng phục vụ kinh doanh. Thời điểm quyết định ban hành là tháng 10/2025,áp dụng mô hình quản lý thuế trước thời điểm Luật Thuế thu nhập cá nhân sửa đổi, Luật Quản lý thuế sửa đổi được thông qua. Theo quy định tại luật mới, mức doanh thu không phải nộp thuế của hộ, cá nhân kinh doanh là từ 500 triệu đồng/năm.
+
+Hiện tại, hộ kinh doanh vẫn chờ hướng dẫn cụ thể, khingưỡng tính thuếđã điều chỉnh. Tại dự thảo Nghị định quy đ",2,,reviewed_disagreement,Tài Thân Yêu,2026-11-12T15:36:56.103118+00:00,1,2,2,2,"B?i n?u ng??ng doanh thu v? qu?n l? thu? h? kinh doanh, c? th? tham chi?u cho ng??i kinh doanh c? th? nh?ng kh?ng ?? c?p ri?ng t?i x?.","AI-provisional; query, title, and supplied snippet only; not a human judgment or adjudication"

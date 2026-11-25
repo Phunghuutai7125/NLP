@@ -1,0 +1,51 @@
+﻿query_id,split,topic,query,review_status
+q001,dev,thuong_mai_quoc_te,Chính sách thuế của Mỹ đang làm các nền kinh tế thay đổi quan hệ thương mại ra sao?,draft_needs_human_review
+q002,dev,doanh_nghiep,Doanh nghiệp Việt Nam mở rộng đầu tư hoặc kinh doanh ở nước ngoài như thế nào?,draft_needs_human_review
+q003,dev,thi_truong_chung_khoan,Diễn biến của VN-Index và các nhóm cổ phiếu trong phiên giao dịch gần đây thế nào?,draft_needs_human_review
+q004,dev,ngan_hang_tai_chinh,Ngân hàng đang thay đổi lãi suất cho vay và huy động ra sao?,draft_needs_human_review
+q005,dev,bat_dong_san,Giá nhà đất và thị trường bất động sản đang biến động như thế nào?,draft_needs_human_review
+q006,dev,ban_le_tieu_dung,Sức mua và doanh thu bán lẻ của doanh nghiệp thay đổi ra sao?,draft_needs_human_review
+q007,dev,gia_ca,"Thông tin mới về giá vàng, giá xăng và các mặt hàng thiết yếu?",draft_needs_human_review
+q008,dev,thue_ho_kinh_doanh,Quy định thuế mới ảnh hưởng thế nào đến hộ kinh doanh và ngưỡng doanh thu phải nộp thuế?,draft_needs_human_review
+q009,dev,hang_khong,Kết quả kinh doanh và doanh thu của các hãng hàng không Việt Nam ra sao?,draft_needs_human_review
+q010,dev,xe_dien,Các hãng xe điện Việt Nam đang đầu tư hoặc mở rộng hoạt động kinh doanh ở đâu?,draft_needs_human_review
+q011,test,thuong_mai_quoc_te,Mức thuế nhập khẩu do Mỹ áp đặt khiến các nước xích lại gần nhau hơn như thế nào?,locked
+q012,test,xuat_nhap_khau,Doanh nghiệp Việt Nam gặp thuận lợi hay khó khăn gì khi xuất khẩu hàng hóa?,locked
+q013,test,thi_truong_chung_khoan,Vì sao VN-Index tăng mạnh trong một phiên và nhóm ngành nào dẫn dắt?,locked
+q014,test,thi_truong_chung_khoan,Có cổ phiếu nào tăng trần trong lúc thị trường chứng khoán giảm điểm không?,locked
+q015,test,thi_truong_chung_khoan,Các chuyên gia đánh giá thế nào về khả năng hồi phục của thị trường cổ phiếu?,locked
+q016,test,ngan_hang_tai_chinh,Ngân hàng nào điều chỉnh lãi suất tiền gửi hoặc lãi suất cho vay gần đây?,locked
+q017,test,ngan_hang_tai_chinh,Tín dụng và hoạt động cho vay của các ngân hàng đang được nói đến ra sao?,locked
+q018,test,ngan_hang_tai_chinh,Có đề xuất nào yêu cầu hộ kinh doanh kê khai các tài khoản ngân hàng?,locked
+q019,test,bat_dong_san,Vì sao cư dân một khu chung cư chờ giấy chứng nhận quyền sở hữu suốt nhiều năm?,locked
+q020,test,bat_dong_san,Những dự án bất động sản nào đang được đề xuất hoặc triển khai đầu tư?,locked
+q021,test,ngan_hang_tai_chinh,Ngân hàng đang xử lý nợ xấu bằng cách rao bán những tài sản nào?,locked
+q022,test,gia_ca,Giá vàng trong nước và thế giới biến động như thế nào?,locked
+q023,test,gia_ca,Giá xăng dầu thay đổi ra sao và điều đó ảnh hưởng gì đến người tiêu dùng?,locked
+q024,test,gia_ca,Lạm phát và chi phí sinh hoạt được phản ánh trong các tin kinh tế nào?,locked
+q025,test,thue_ho_kinh_doanh,Ngưỡng doanh thu nào khiến hộ kinh doanh phải kê khai hoặc nộp thuế?,locked
+q026,test,thue_ho_kinh_doanh,Người có nhà cho thuê phải kê khai và nộp thuế như thế nào?,locked
+q027,test,doanh_nghiep,Công ty nào công bố doanh thu hoặc lợi nhuận tăng cao trong năm vừa qua?,locked
+q028,test,doanh_nghiep,Những doanh nghiệp nào được nhắc đến trong kế hoạch phát triển ngành đường sắt quy mô lớn?,locked
+q029,test,doanh_nghiep,"Các thương vụ mua bán, sáp nhập hoặc thâu tóm doanh nghiệp được đề cập ra sao?",locked
+q030,test,nang_luong,Bộ Công Thương đề xuất giải pháp nào để tháo gỡ vướng mắc cho các dự án năng lượng?,locked
+q031,test,ban_le_tieu_dung,Người mua sắm dịp Tết có thể nhận ưu đãi nào từ chuỗi điện máy?,locked
+q032,test,ban_le_tieu_dung,Doanh thu của các chuỗi bán lẻ và siêu thị tăng giảm ra sao?,locked
+q033,test,ban_le_tieu_dung,Vì sao giá ô tô nhập khẩu được mô tả là một nghịch lý?,locked
+q034,test,xe_dien,VinFast đang hợp tác hoặc mở rộng hoạt động kinh doanh ở thị trường nào?,locked
+q035,test,cong_nghe_xanh,Dòng vốn đầu tư toàn cầu vào công nghệ xanh được ước tính ở quy mô nào?,locked
+q036,test,hang_khong,Có hãng hàng không mới nào chuẩn bị gia nhập thị trường và ai đứng sau?,locked
+q037,test,hang_khong,Các hãng bay đang mở thêm đường bay hoặc đầu tư đội tàu bay như thế nào?,locked
+q038,test,cong_nghe_kinh_doanh,Ai đang thành lập doanh nghiệp để sản xuất tàu vũ trụ?,locked
+q039,test,cong_nghe_kinh_doanh,DeepSeek tạo ra thay đổi gì trong cuộc cạnh tranh đầu tư trí tuệ nhân tạo?,locked
+q040,test,thi_truong_tai_san_so,Bitcoin và các tài sản số biến động ra sao đối với giới đầu tư?,locked
+q041,test,thi_truong_tai_san_so,"Sau đợt giảm mạnh của Bitcoin, những kịch bản nào được dự báo cho năm 2026?",locked
+q042,test,cong_nghe_kinh_doanh,Tập đoàn bán dẫn lớn nào muốn mở rộng hoạt động tại Việt Nam?,locked
+q043,test,thi_truong_chung_khoan,Chiến sự Trung Đông ảnh hưởng thế nào đến thị trường chứng khoán Việt Nam?,locked
+q044,test,thi_truong_lao_dong,Ngân hàng nào dự định tuyển dụng trở lại sau đợt tinh giản hàng nghìn nhân viên?,locked
+q045,test,nang_luong,Doanh nghiệp năng lượng và điện đang đầu tư vào những dự án nào?,locked
+q046,test,doanh_thu_kinh_doanh,Tài xế hoặc người kinh doanh cá thể có thể đạt mức doanh thu bao nhiêu?,locked
+q047,test,doanh_thu_kinh_doanh,Doanh nghiệp nào ghi nhận mức doanh thu cao kỷ lục trong năm 2025?,locked
+q048,test,hang_hoa_thuc_pham,Giá thực phẩm và hàng hóa phục vụ Tết biến động như thế nào?,locked
+q049,test,thi_truong_chung_khoan,Cổ phiếu ngân hàng hoặc chứng khoán tác động thế nào đến chỉ số VN-Index?,locked
+q050,test,thi_truong_bat_dong_san,Việc kiểm soát tín dụng bất động sản ảnh hưởng ra sao đến cổ phiếu nhà đất?,locked

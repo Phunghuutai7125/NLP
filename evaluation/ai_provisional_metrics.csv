@@ -1,0 +1,4 @@
+﻿method,split,queries,nDCG@5,MRR@5,judgment_source
+E0_tfidf,test,40,0.7410514384868077,0.9112500000000001,AI-provisional; not human/gold
+E1_dense,test,40,0.5986932031617909,0.7770833333333333,AI-provisional; not human/gold
+E2_rrf_fusion,test,40,0.7816603177770287,0.9395833333333334,AI-provisional; not human/gold

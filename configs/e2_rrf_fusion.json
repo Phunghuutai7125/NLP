@@ -1,0 +1,12 @@
+{
+  "system_id": "E2_rrf_fusion",
+  "name": "Reciprocal Rank Fusion (Hybrid Retrieval)",
+  "hypothesis": "Reciprocal Rank Fusion (RRF) combines lexical precision from TF-IDF with semantic recall from dense representations to improve overall ranking robustly.",
+  "fusion": {
+    "method": "RRF",
+    "k": 60,
+    "components": ["E0_tfidf", "E1_dense"]
+  },
+  "top_k": 10,
+  "pool_depth": 5
+}

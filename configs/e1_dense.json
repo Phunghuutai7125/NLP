@@ -1,0 +1,13 @@
+{
+  "system_id": "E1_dense",
+  "name": "Multilingual Dense Sentence Embeddings",
+  "hypothesis": "Multilingual sentence embeddings map queries and documents into a shared latent space, capturing paraphrases and semantic synonymy beyond exact word overlap.",
+  "model": {
+    "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "max_seq_length": 256,
+    "device_preference": "cuda",
+    "similarity": "cosine"
+  },
+  "top_k": 10,
+  "pool_depth": 5
+}
